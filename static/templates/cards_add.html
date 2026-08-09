@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block title %}Add Cards· Memory{% endblock %}
+
+{% block content %}
+
+<section class="page-section">
+    <div class="section-heading">
+        <div>
+            <p class="eyebrow">Add cards</p>
+            <h1>Add Cards</h1>
+        </div>
+    </div>{% if decks %}
+<section class="settings-card">
+    <form class="stack-form" hx-post="{{ url_for('import_cards_route', deck_id=profile.selected_deck) }}" hx-target="#import-result" hx-swap="innerHTML" enctype="multipart/form-data">
+        <label class="form-label" for="import-deck">Deck Selection</label>
+
+        <select id="import-deck" class="form-input" name="deck_id" onchange="this.form.setAttribute('hx-post', '/api/decks/' + this.value + '/cards/import'); htmx.process(this.form)">
+            {% for deck in decks %}
+            <option value="{{ deck.deck_id }}" {% if deck.deck_id == profile.selected_deck %}selected{% endif %}>{{ deck.name }}</option>
+            {% endfor %}
+        </select>
+
+        <label class="form-label" for="cards-text">Cards Content</label>
+        <textarea id="cards-text" class="form-input card-import-textarea" name="cards_text" rows="14" placeholder="apple	pomo사과&#10;book	libro책&#10;memory	memoro기억" spellcheck="false" required></textarea>
+
+        <p class="form-help">Each card at each line. Question tab answer</p>
+
+        <button class="primary-button" type="submit">Add Cards</button>
+    </form>
+
+    <div id="import-result" class="form-result" aria-live="polite"></div>
+</section>
+{% else %}
+<section class="empty-state">
+    <h2>There is no deck.</h2>
+    <p>To add cards, you need to create a deck at Settings menu.</p>
+    <a class="primary-button button-link" href="{{ url_for('settings_page') }}">Settings</a>
+</section>
+{% endif %}
+
+</section>
+{% endblock %}

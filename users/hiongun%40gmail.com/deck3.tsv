@@ -1,0 +1,725 @@
+name	TOEFL 700                                                                       
+n-session	000000
+00001	1970-01-01 00:00:00	0000	0000	난이도	영단어\t발음\t영어설명\t한글설명
+00002	1970-01-01 00:00:00	0000	0000	advocate	/ˈædvəkeɪt/\tto publicly support or recommend a cause\t옹호하다, 주창하다
+00003	1970-01-01 00:00:00	0000	0000	affluent	/ˈæfluənt/\thaving a great deal of money; wealthy\t부유한, 풍부한
+00004	1970-01-01 00:00:00	0000	0000	aggregate	/ˈæɡrɪɡət/\ta whole formed by combining several elements\t합계, 총합, 집합체
+00005	1970-01-01 00:00:00	0000	0000	agility	/əˈdʒɪləti/\tthe ability to move or think quickly and easily\t민첩성, 기민함
+00006	1970-01-01 00:00:00	0000	0000	alienate	/ˈeɪliəneɪt/\tto cause someone to feel isolated or estranged\t소외시키다, 멀어지게 하다
+00007	1970-01-01 00:00:00	0000	0000	alleviate	/əˈliːvieɪt/\tto make suffering or a problem less severe\t완화하다, 경감하다
+00008	1970-01-01 00:00:00	0000	0000	ambiguous	/æmˈbɪɡjuəs/\topen to more than one interpretation; unclear\t모호한, 다의적인
+00009	1970-01-01 00:00:00	0000	0000	analogous	/əˈnæləɡəs/\tcomparable in certain respects; similar\t유사한, 비슷한
+00010	1970-01-01 00:00:00	0000	0000	anecdote	/ˈænɪkdoʊt/\ta short interesting story about a real incident\t일화
+00011	1970-01-01 00:00:00	0000	0000	anarchy	/ˈænərki/\ta state of disorder caused by an absence of authority\t무정부 상태, 혼란
+00012	1970-01-01 00:00:00	0000	0000	apathy	/ˈæpəθi/\tlack of interest, enthusiasm, or concern\t무관심, 냉담
+00013	1970-01-01 00:00:00	0000	0000	apprehension	/ˌæprɪˈhenʃn/\tanxiety or fear about something that may happen\t우려, 불안
+00014	1970-01-01 00:00:00	0000	0000	aptitude	/ˈæptɪtuːd/\ta natural ability to do something\t소질, 적성
+00015	1970-01-01 00:00:00	0000	0000	arbitrary	/ˈɑːrbɪtreri/\tbased on personal choice rather than reason or a system\t임의적인, 자의적인
+00016	1970-01-01 00:00:00	0000	0000	archaic	/ɑːrˈkeɪɪk/\tvery old or old-fashioned\t고대의, 구식의
+00017	1970-01-01 00:00:00	0000	0000	arduous	/ˈɑːrdʒuəs/\trequiring great effort; difficult and tiring\t고된, 힘든
+00018	1970-01-01 00:00:00	0000	0000	articulate	/ɑːrˈtɪkjuleɪt/\tto express ideas clearly and effectively\t명확히 표현하다
+00019	1970-01-01 00:00:00	0000	0000	ascertain	/ˌæsərˈteɪn/\tto find out something with certainty\t확인하다, 알아내다
+00020	1970-01-01 00:00:00	0000	0000	assertive	/əˈsɜːrtɪv/\tconfident and forceful in expressing opinions\t자기주장이 강한, 단호한
+00021	1970-01-01 00:00:00	0000	0000	authentic	/ɔːˈθentɪk/\tgenuine and of undisputed origin\t진짜의, 진정한
+00022	1970-01-01 00:00:00	0000	0000	autonomous	/ɔːˈtɑːnəməs/\thaving the freedom to act or govern independently\t자율적인, 독립적인
+00023	1970-01-01 00:00:00	0000	0000	autonomy	/ɔːˈtɑːnəmi/\tthe right or condition of self-government\t자율성, 자치권
+00024	1970-01-01 00:00:00	0000	0000	baffle	/ˈbæfl/\tto confuse or puzzle someone completely\t당황하게 하다, 이해하기 어렵게 하다
+00025	1970-01-01 00:00:00	0000	0000	banish	/ˈbænɪʃ/\tto send someone away as a punishment\t추방하다, 내쫓다
+00026	1970-01-01 00:00:00	0000	0000	barren	/ˈbærən/\tunable to produce vegetation or useful results\t메마른, 결실이 없는
+00027	1970-01-01 00:00:00	0000	0000	betray	/bɪˈtreɪ/\tto be disloyal or reveal something unintentionally\t배신하다, 드러내다
+00028	1970-01-01 00:00:00	0000	0000	bewilder	/bɪˈwɪldər/\tto make someone confused\t어리둥절하게 하다
+00029	1970-01-01 00:00:00	0000	0000	bias	/ˈbaɪəs/\tan unfair preference for or against something\t편견, 편향
+00030	1970-01-01 00:00:00	0000	0000	bland	/blænd/\tlacking strong features, flavor, or interest\t특징 없는, 싱거운
+00031	1970-01-01 00:00:00	0000	0000	blatant	/ˈbleɪtnt/\tdone openly and without shame\t노골적인, 뻔뻔한
+00032	1970-01-01 00:00:00	0000	0000	bogus	/ˈboʊɡəs/\tnot genuine or true; fake\t가짜의, 위조된
+00033	1970-01-01 00:00:00	0000	0000	bolster	/ˈboʊlstər/\tto support or strengthen something\t지지하다, 강화하다
+00034	1970-01-01 00:00:00	0000	0000	brittle	/ˈbrɪtl/\thard but easily broken\t부서지기 쉬운, 취약한
+00035	1970-01-01 00:00:00	0000	0000	catalyst	/ˈkætəlɪst/\tsomething that causes or accelerates change\t촉매, 변화의 계기
+00036	1970-01-01 00:00:00	0000	0000	champion	/ˈtʃæmpiən/\tto vigorously support or defend a cause\t옹호하다, 지지하다
+00037	1970-01-01 00:00:00	0000	0000	cognitive	/ˈkɑːɡnətɪv/\trelating to thinking, learning, and understanding\t인지의, 인식의
+00038	1970-01-01 00:00:00	0000	0000	compliant	/kəmˈplaɪənt/\twilling to obey rules or requests\t순종하는, 규정을 준수하는
+00039	1970-01-01 00:00:00	0000	0000	concede	/kənˈsiːd/\tto admit that something is true or valid\t인정하다, 양보하다
+00040	1970-01-01 00:00:00	0000	0000	conducive	/kənˈduːsɪv/\tmaking a particular result likely or possible\t도움이 되는, 기여하는
+00041	1970-01-01 00:00:00	0000	0000	conjecture	/kənˈdʒektʃər/\tan opinion based on incomplete information\t추측, 추정
+00042	1970-01-01 00:00:00	0000	0000	consequential	/ˌkɑːnsɪˈkwenʃl/\tfollowing as a result or having important effects\t결과적인, 중요한
+00043	1970-01-01 00:00:00	0000	0000	console	/kənˈsoʊl/\tto comfort someone who is sad or disappointed\t위로하다
+00044	1970-01-01 00:00:00	0000	0000	conspicuous	/kənˈspɪkjuəs/\teasily seen or noticed\t눈에 띄는, 두드러진
+00045	1970-01-01 00:00:00	0000	0000	contingent	/kənˈtɪndʒənt/\tdependent on uncertain conditions\t조건부의, 상황에 달린
+00046	1970-01-01 00:00:00	0000	0000	converge	/kənˈvɜːrdʒ/\tto come together from different directions\t모이다, 수렴하다
+00047	1970-01-01 00:00:00	0000	0000	copious	/ˈkoʊpiəs/\tabundant in quantity\t풍부한, 다량의
+00048	1970-01-01 00:00:00	0000	0000	cordial	/ˈkɔːrdʒəl/\twarm and friendly\t다정한, 진심 어린
+00049	1970-01-01 00:00:00	0000	0000	curtail	/kərˈteɪl/\tto reduce or restrict something\t축소하다, 제한하다
+00050	1970-01-01 00:00:00	0000	0000	cynical	/ˈsɪnɪkl/\tdistrustful of people's motives\t냉소적인, 불신하는
+00051	1970-01-01 00:00:00	0000	0000	deliberate	/dɪˈlɪbərət/\tdone consciously and intentionally\t의도적인, 신중한
+00052	1970-01-01 00:00:00	0000	0000	denounce	/dɪˈnaʊns/\tto publicly condemn someone or something\t공개적으로 비난하다, 고발하다
+00053	1970-01-01 00:00:00	0000	0000	depict	/dɪˈpɪkt/\tto represent something in words or pictures\t묘사하다, 그리다
+00054	1970-01-01 00:00:00	0000	0000	deplete	/dɪˈpliːt/\tto use up most of a supply\t고갈시키다
+00055	1970-01-01 00:00:00	0000	0000	detached	/dɪˈtætʃt/\tseparate, objective, or emotionally uninvolved\t분리된, 객관적인
+00056	1970-01-01 00:00:00	0000	0000	deterrent	/dɪˈtɜːrənt/\tsomething that discourages an action\t억제책, 방지 수단
+00057	1970-01-01 00:00:00	0000	0000	discrepancy	/dɪsˈkrepənsi/\tan inconsistency between two facts or accounts\t불일치, 차이
+00058	1970-01-01 00:00:00	0000	0000	discreet	/dɪsˈkriːt/\tcareful not to attract attention or cause offense\t신중한, 조심스러운
+00059	1970-01-01 00:00:00	0000	0000	discretion	/dɪsˈkreʃn/\tgood judgment or freedom to make decisions\t신중함, 재량
+00060	1970-01-01 00:00:00	0000	0000	disdain	/dɪsˈdeɪn/\ta feeling of contempt or lack of respect\t경멸, 업신여김
+00061	1970-01-01 00:00:00	0000	0000	disparate	/ˈdɪspərət/\tfundamentally different from each other\t이질적인, 전혀 다른
+00062	1970-01-01 00:00:00	0000	0000	dispel	/dɪˈspel/\tto make a doubt, fear, or belief disappear\t떨쳐버리다, 없애다
+00063	1970-01-01 00:00:00	0000	0000	disperse	/dɪˈspɜːrs/\tto spread or scatter over a wide area\t흩어지게 하다, 분산시키다
+00064	1970-01-01 00:00:00	0000	0000	disseminate	/dɪˈsemɪneɪt/\tto spread information widely\t유포하다, 널리 퍼뜨리다
+00065	1970-01-01 00:00:00	0000	0000	dissent	/dɪˈsent/\tto disagree with an accepted or official opinion\t반대하다, 이의를 제기하다
+00066	1970-01-01 00:00:00	0000	0000	distant	/ˈdɪstənt/\tfar away or emotionally reserved\t멀리 떨어진, 쌀쌀맞은
+00067	1970-01-01 00:00:00	0000	0000	distill	/dɪˈstɪl/\tto extract the essential meaning or substance\t증류하다, 핵심을 추출하다
+00068	1970-01-01 00:00:00	0000	0000	distort	/dɪˈstɔːrt/\tto alter the shape or meaning inaccurately\t왜곡하다, 비틀다
+00069	1970-01-01 00:00:00	0000	0000	divergent	/daɪˈvɜːrdʒənt/\tdeveloping in different directions\t갈라지는, 서로 다른
+00070	1970-01-01 00:00:00	0000	0000	divert	/daɪˈvɜːrt/\tto cause something to change direction\t방향을 돌리다, 전환하다
+00071	1970-01-01 00:00:00	0000	0000	dormant	/ˈdɔːrmənt/\ttemporarily inactive\t휴면 중인, 활동을 멈춘
+00072	1970-01-01 00:00:00	0000	0000	dubious	/ˈduːbiəs/\tdoubtful or not reliable\t의심스러운, 수상쩍은
+00073	1970-01-01 00:00:00	0000	0000	eccentric	/ɪkˈsentrɪk/\tunconventional and slightly strange\t별난, 기이한
+00074	1970-01-01 00:00:00	0000	0000	eclectic	/ɪˈklektɪk/\tdrawing ideas from many different sources\t절충적인, 다방면의
+00075	1970-01-01 00:00:00	0000	0000	efficacy	/ˈefɪkəsi/\tthe ability to produce the intended result\t효능, 유효성
+00076	1970-01-01 00:00:00	0000	0000	elated	/ɪˈleɪtɪd/\textremely happy and excited\t의기양양한, 매우 기쁜
+00077	1970-01-01 00:00:00	0000	0000	elicit	/ɪˈlɪsɪt/\tto draw out a response or information\t이끌어내다, 유도하다
+00078	1970-01-01 00:00:00	0000	0000	elusive	/ɪˈluːsɪv/\tdifficult to find, understand, or achieve\t찾기 힘든, 파악하기 어려운
+00079	1970-01-01 00:00:00	0000	0000	emancipate	/ɪˈmænsɪpeɪt/\tto free someone from restrictions or control\t해방시키다
+00080	1970-01-01 00:00:00	0000	0000	embellish	/ɪmˈbelɪʃ/\tto decorate or add details to a story\t장식하다, 과장하여 꾸미다
+00081	1970-01-01 00:00:00	0000	0000	empathy	/ˈempəθi/\tthe ability to understand another person's feelings\t공감, 감정이입
+00082	1970-01-01 00:00:00	0000	0000	empirical	/ɪmˈpɪrɪkl/\tbased on observation or experience\t실증적인, 경험적인
+00083	1970-01-01 00:00:00	0000	0000	emulate	/ˈemjuleɪt/\tto imitate someone in order to equal or surpass them\t모방하다, 본받다
+00084	1970-01-01 00:00:00	0000	0000	engender	/ɪnˈdʒendər/\tto cause a feeling or situation to arise\t낳다, 일으키다
+00085	1970-01-01 00:00:00	0000	0000	entail	/ɪnˈteɪl/\tto involve something as a necessary consequence\t수반하다, 필요로 하다
+00086	1970-01-01 00:00:00	0000	0000	ephemeral	/ɪˈfemərəl/\tlasting for a very short time\t덧없는, 수명이 짧은
+00087	1970-01-01 00:00:00	0000	0000	epitome	/ɪˈpɪtəmi/\ta perfect example of a particular quality\t전형, 표상
+00088	1970-01-01 00:00:00	0000	0000	explicit	/ɪkˈsplɪsɪt/\tclearly and fully stated\t명백한, 명시적인
+00089	1970-01-01 00:00:00	0000	0000	exploit	/ɪkˈsplɔɪt/\tto make use of something, often unfairly\t활용하다, 착취하다
+00090	1970-01-01 00:00:00	0000	0000	exotic	/ɪɡˈzɑːtɪk/\toriginating in a distant foreign country\t이국적인, 외래의
+00091	1970-01-01 00:00:00	0000	0000	expedite	/ˈekspədaɪt/\tto make a process happen more quickly\t촉진하다, 신속히 처리하다
+00092	1970-01-01 00:00:00	0000	0000	extraneous	/ɪkˈstreɪniəs/\tirrelevant or unrelated to the subject\t관련 없는, 불필요한
+00093	1970-01-01 00:00:00	0000	0000	extravagant	/ɪkˈstrævəɡənt/\texcessive or wasteful in spending\t사치스러운, 낭비하는
+00094	1970-01-01 00:00:00	0000	0000	exuberant	/ɪɡˈzuːbərənt/\tfull of lively energy and excitement\t활기 넘치는
+00095	1970-01-01 00:00:00	0000	0000	feasible	/ˈfiːzəbl/\tpossible and practical to do\t실행 가능한
+00096	1970-01-01 00:00:00	0000	0000	fidelity	/fɪˈdeləti/\tfaithfulness or accuracy\t충실함, 정확성
+00097	1970-01-01 00:00:00	0000	0000	fickle	/ˈfɪkl/\tfrequently changing in loyalty or affection\t변덕스러운
+00098	1970-01-01 00:00:00	0000	0000	flagrant	/ˈfleɪɡrənt/\tobviously offensive or wrong\t명백히 잘못된, 악명 높은
+00099	1970-01-01 00:00:00	0000	0000	fledgling	/ˈfledʒlɪŋ/\tan inexperienced person or new organization\t초보자, 신생 조직
+00100	1970-01-01 00:00:00	0000	0000	fluctuate	/ˈflʌktʃueɪt/\tto rise and fall irregularly\t변동하다, 오르내리다
+00101	1970-01-01 00:00:00	0000	0000	foreshadow	/fɔːrˈʃædoʊ/\tto indicate or warn of a future event\t암시하다, 전조가 되다
+00102	1970-01-01 00:00:00	0000	0000	forestall	/fɔːrˈstɔːl/\tto prevent something by acting in advance\t미연에 방지하다
+00103	1970-01-01 00:00:00	0000	0000	forfeit	/ˈfɔːrfɪt/\tto lose a right or possession as a penalty\t박탈당하다, 몰수당하다
+00104	1970-01-01 00:00:00	0000	0000	foster	/ˈfɔːstər/\tto encourage the development of something\t육성하다, 촉진하다
+00105	1970-01-01 00:00:00	0000	0000	frugal	/ˈfruːɡl/\tcareful and economical with money or resources\t검소한, 절약하는
+00106	1970-01-01 00:00:00	0000	0000	futile	/ˈfjuːtl/\tunable to produce a useful result\t무익한, 헛된
+00107	1970-01-01 00:00:00	0000	0000	generosity	/ˌdʒenəˈrɑːsəti/\tthe quality of being kind and willing to give\t관대함, 아량
+00108	1970-01-01 00:00:00	0000	0000	germane	/dʒɜːrˈmeɪn/\trelevant to the subject being discussed\t관련 있는, 적절한
+00109	1970-01-01 00:00:00	0000	0000	gregarious	/ɡrɪˈɡeəriəs/\tfond of company and sociable\t사교적인
+00110	1970-01-01 00:00:00	0000	0000	hamper	/ˈhæmpər/\tto hinder movement or progress\t방해하다, 저해하다
+00111	1970-01-01 00:00:00	0000	0000	haphazard	/hæpˈhæzərd/\tlacking organization or planning\t무계획적인, 되는대로의
+00112	1970-01-01 00:00:00	0000	0000	hardy	/ˈhɑːrdi/\tstrong and able to endure difficult conditions\t강건한, 내구성이 있는
+00113	1970-01-01 00:00:00	0000	0000	heterogeneous	/ˌhetərəˈdʒiːniəs/\tconsisting of diverse elements\t이질적인, 잡다한
+00114	1970-01-01 00:00:00	0000	0000	hierarchy	/ˈhaɪərɑːrki/\ta system in which people or things are ranked\t계층 구조, 위계
+00115	1970-01-01 00:00:00	0000	0000	hinder	/ˈhɪndər/\tto create difficulties that delay progress\t방해하다, 저해하다
+00116	1970-01-01 00:00:00	0000	0000	homogeneous	/ˌhoʊməˈdʒiːniəs/\tconsisting of parts of the same kind\t동질적인, 균일한
+00117	1970-01-01 00:00:00	0000	0000	illuminate	/ɪˈluːmɪneɪt/\tto clarify or make easier to understand\t밝히다, 설명하다
+00118	1970-01-01 00:00:00	0000	0000	impair	/ɪmˈper/\tto weaken or damage something\t손상시키다, 약화시키다
+00119	1970-01-01 00:00:00	0000	0000	impeccable	/ɪmˈpekəbl/\tfaultless and meeting the highest standards\t흠잡을 데 없는
+00120	1970-01-01 00:00:00	0000	0000	impediment	/ɪmˈpedɪmənt/\tsomething that obstructs progress\t방해물, 장애
+00121	1970-01-01 00:00:00	0000	0000	impending	/ɪmˈpendɪŋ/\tabout to happen\t임박한
+00122	1970-01-01 00:00:00	0000	0000	imperative	/ɪmˈperətɪv/\textremely important or necessary\t필수적인, 긴급한
+00123	1970-01-01 00:00:00	0000	0000	implicit	/ɪmˈplɪsɪt/\tsuggested but not directly stated\t암시된, 암묵적인
+00124	1970-01-01 00:00:00	0000	0000	imply	/ɪmˈplaɪ/\tto suggest something without stating it directly\t암시하다
+00125	1970-01-01 00:00:00	0000	0000	impoverish	/ɪmˈpɑːvərɪʃ/\tto make someone poor or reduce quality\t빈곤하게 하다, 질을 떨어뜨리다
+00126	1970-01-01 00:00:00	0000	0000	inadvertent	/ˌɪnədˈvɜːrtənt/\tunintentional\t의도하지 않은, 우연한
+00127	1970-01-01 00:00:00	0000	0000	inconsequential	/ɪnˌkɑːnsɪˈkwenʃl/\tnot important or significant\t사소한, 중요하지 않은
+00128	1970-01-01 00:00:00	0000	0000	increment	/ˈɪŋkrəmənt/\tan increase or addition\t증가분, 증대
+00129	1970-01-01 00:00:00	0000	0000	indifferent	/ɪnˈdɪfrənt/\thaving no particular interest or concern\t무관심한, 냉담한
+00130	1970-01-01 00:00:00	0000	0000	indigenous	/ɪnˈdɪdʒənəs/\toriginating naturally in a particular place\t토착의, 원산의
+00131	1970-01-01 00:00:00	0000	0000	induce	/ɪnˈduːs/\tto persuade, cause, or bring about\t유도하다, 일으키다
+00132	1970-01-01 00:00:00	0000	0000	inherent	/ɪnˈhɪrənt/\texisting as a permanent or essential quality\t내재하는, 고유한
+00133	1970-01-01 00:00:00	0000	0000	inhibit	/ɪnˈhɪbɪt/\tto restrain or prevent an action or process\t억제하다, 방해하다
+00134	1970-01-01 00:00:00	0000	0000	innocuous	/ɪˈnɑːkjuəs/\tnot harmful or offensive\t무해한, 해롭지 않은
+00135	1970-01-01 00:00:00	0000	0000	intangible	/ɪnˈtændʒəbl/\tunable to be touched; not physical\t무형의, 만질 수 없는
+00136	1970-01-01 00:00:00	0000	0000	integral	/ˈɪntɪɡrəl/\tessential for completeness\t필수적인, 완전한
+00137	1970-01-01 00:00:00	0000	0000	jargon	/ˈdʒɑːrɡən/\tspecialized language used by a profession or group\t전문 용어, 은어
+00138	1970-01-01 00:00:00	0000	0000	jettison	/ˈdʒetɪsn/\tto throw away or abandon something\t버리다, 폐기하다
+00139	1970-01-01 00:00:00	0000	0000	judicious	/dʒuˈdɪʃəs/\tshowing good judgment\t현명한, 신중한
+00140	1970-01-01 00:00:00	0000	0000	keen	/kiːn/\teager, enthusiastic, or sharply perceptive\t열성적인, 예리한
+00141	1970-01-01 00:00:00	0000	0000	kinetic	/kɪˈnetɪk/\trelating to motion\t운동의, 동적인
+00142	1970-01-01 00:00:00	0000	0000	lament	/ləˈment/\tto express grief or sorrow\t한탄하다, 애도하다
+00143	1970-01-01 00:00:00	0000	0000	latent	/ˈleɪtnt/\tpresent but not yet visible or active\t잠재하는, 숨어 있는
+00144	1970-01-01 00:00:00	0000	0000	laudable	/ˈlɔːdəbl/\tdeserving praise\t칭찬할 만한
+00145	1970-01-01 00:00:00	0000	0000	lavish	/ˈlævɪʃ/\trich, elaborate, or given generously\t호화로운, 아낌없는
+00146	1970-01-01 00:00:00	0000	0000	liberal	/ˈlɪbərəl/\tgenerous in amount or open to new ideas\t후한, 개방적인
+00147	1970-01-01 00:00:00	0000	0000	lucid	/ˈluːsɪd/\tclear and easy to understand\t명쾌한, 명확한
+00148	1970-01-01 00:00:00	0000	0000	lucrative	/ˈluːkrətɪv/\tproducing a large profit\t수익성이 높은
+00149	1970-01-01 00:00:00	0000	0000	luminous	/ˈluːmɪnəs/\tgiving off light or appearing bright\t빛나는, 선명한
+00150	1970-01-01 00:00:00	0000	0000	mandate	/ˈmændeɪt/\tan official order or authority to act\t명령, 권한
+00151	1970-01-01 00:00:00	0000	0000	manifest	/ˈmænɪfest/\tclear or obvious; to become apparent\t명백한, 드러나다
+00152	1970-01-01 00:00:00	0000	0000	marginal	/ˈmɑːrdʒɪnl/\tminor or relating to an edge or limit\t미미한, 한계의
+00153	1970-01-01 00:00:00	0000	0000	melancholy	/ˈmelənkɑːli/\ta thoughtful or lasting sadness\t우울, 애수
+00154	1970-01-01 00:00:00	0000	0000	meticulous	/məˈtɪkjələs/\textremely careful about details\t꼼꼼한, 세심한
+00155	1970-01-01 00:00:00	0000	0000	mitigate	/ˈmɪtɪɡeɪt/\tto make something less severe or painful\t완화하다, 경감하다
+00156	1970-01-01 00:00:00	0000	0000	monotonous	/məˈnɑːtənəs/\tdull and repetitive\t단조로운, 지루한
+00157	1970-01-01 00:00:00	0000	0000	mundane	/mʌnˈdeɪn/\tordinary and lacking excitement\t평범한, 일상적인
+00158	1970-01-01 00:00:00	0000	0000	nebulous	/ˈnebjələs/\tvague or poorly defined\t모호한, 희미한
+00159	1970-01-01 00:00:00	0000	0000	neophyte	/ˈniːəfaɪt/\ta person new to a subject or activity\t초보자, 신참
+00160	1970-01-01 00:00:00	0000	0000	nonchalant	/ˌnɑːnʃəˈlɑːnt/\tcasually calm and unconcerned\t태연한, 무심한
+00161	1970-01-01 00:00:00	0000	0000	notorious	/noʊˈtɔːriəs/\twell known for something bad\t악명 높은
+00162	1970-01-01 00:00:00	0000	0000	novel	/ˈnɑːvl/\tnew and unusual in an interesting way\t새로운, 참신한
+00163	1970-01-01 00:00:00	0000	0000	noxious	/ˈnɑːkʃəs/\tharmful, poisonous, or unpleasant\t유해한, 유독한
+00164	1970-01-01 00:00:00	0000	0000	nuance	/ˈnuːɑːns/\ta subtle difference in meaning or expression\t미묘한 차이
+00165	1970-01-01 00:00:00	0000	0000	oblivious	/əˈblɪviəs/\tunaware of what is happening\t알아채지 못하는
+00166	1970-01-01 00:00:00	0000	0000	obsolete	/ˌɑːbsəˈliːt/\tno longer used or useful\t구식의, 쓸모없어진
+00167	1970-01-01 00:00:00	0000	0000	obstinate	/ˈɑːbstɪnət/\tstubbornly refusing to change\t완고한, 고집 센
+00168	1970-01-01 00:00:00	0000	0000	onerous	/ˈɑːnərəs/\tinvolving a heavy burden or great difficulty\t부담스러운, 힘든
+00169	1970-01-01 00:00:00	0000	0000	opaque	/oʊˈpeɪk/\tnot transparent or difficult to understand\t불투명한, 이해하기 어려운
+00170	1970-01-01 00:00:00	0000	0000	outmoded	/ˌaʊtˈmoʊdɪd/\tno longer fashionable or acceptable\t시대에 뒤떨어진
+00171	1970-01-01 00:00:00	0000	0000	overt	/oʊˈvɜːrt/\tdone or shown openly\t공공연한, 명백한
+00172	1970-01-01 00:00:00	0000	0000	painstaking	/ˈpeɪnzteɪkɪŋ/\tdone with great care and thoroughness\t공들인, 세심한
+00173	1970-01-01 00:00:00	0000	0000	palpable	/ˈpælpəbl/\table to be felt or clearly perceived\t만질 수 있는, 명백한
+00174	1970-01-01 00:00:00	0000	0000	perilous	/ˈperələs/\tfull of danger or risk\t위험한
+00175	1970-01-01 00:00:00	0000	0000	permeable	/ˈpɜːrmiəbl/\tallowing liquid or gas to pass through\t투과성의
+00176	1970-01-01 00:00:00	0000	0000	permeate	/ˈpɜːrmieɪt/\tto spread throughout something\t스며들다, 퍼지다
+00177	1970-01-01 00:00:00	0000	0000	perpetual	/pərˈpetʃuəl/\tcontinuing indefinitely or repeatedly\t영구적인, 끊임없는
+00178	1970-01-01 00:00:00	0000	0000	pertinent	/ˈpɜːrtnənt/\trelevant to a particular matter\t관련 있는, 적절한
+00179	1970-01-01 00:00:00	0000	0000	pervasive	/pərˈveɪsɪv/\tspreading widely throughout an area or group\t널리 퍼진, 만연한
+00180	1970-01-01 00:00:00	0000	0000	placid	/ˈplæsɪd/\tcalm and peaceful\t평온한, 고요한
+00181	1970-01-01 00:00:00	0000	0000	plausible	/ˈplɔːzəbl/\tseeming reasonable or likely to be true\t그럴듯한
+00182	1970-01-01 00:00:00	0000	0000	pragmatic	/præɡˈmætɪk/\tdealing with problems practically and realistically\t실용적인, 현실적인
+00183	1970-01-01 00:00:00	0000	0000	precarious	/prɪˈkeriəs/\tunstable or dangerously insecure\t위태로운, 불안정한
+00184	1970-01-01 00:00:00	0000	0000	preclude	/prɪˈkluːd/\tto prevent something from happening\t방지하다, 불가능하게 하다
+00185	1970-01-01 00:00:00	0000	0000	precursor	/priːˈkɜːrsər/\tsomething that comes before and signals another\t선구자, 전조
+00186	1970-01-01 00:00:00	0000	0000	preeminent	/priˈemɪnənt/\tsurpassing all others\t탁월한, 가장 뛰어난
+00187	1970-01-01 00:00:00	0000	0000	pristine	/ˈprɪstiːn/\tin its original and unspoiled condition\t원래 그대로의, 오염되지 않은
+00188	1970-01-01 00:00:00	0000	0000	prodigious	/prəˈdɪdʒəs/\tremarkably great in size or degree\t엄청난, 경이로운
+00189	1970-01-01 00:00:00	0000	0000	profound	/prəˈfaʊnd/\tvery deep, intense, or insightful\t심오한, 깊은
+00190	1970-01-01 00:00:00	0000	0000	prolific	/prəˈlɪfɪk/\tproducing many works, results, or offspring\t다작의, 다산의
+00191	1970-01-01 00:00:00	0000	0000	proliferate	/prəˈlɪfəreɪt/\tto increase rapidly in number\t급증하다, 확산되다
+00192	1970-01-01 00:00:00	0000	0000	prosperous	/ˈprɑːspərəs/\tsuccessful and flourishing financially\t번영하는, 번창하는
+00193	1970-01-01 00:00:00	0000	0000	protagonist	/prəˈtæɡənɪst/\tthe main character or leading supporter\t주인공, 주도자
+00194	1970-01-01 00:00:00	0000	0000	prudent	/ˈpruːdnt/\tcareful and sensible about future consequences\t신중한, 현명한
+00195	1970-01-01 00:00:00	0000	0000	quaint	/kweɪnt/\tattractively unusual or old-fashioned\t예스러운, 진기한
+00196	1970-01-01 00:00:00	0000	0000	quell	/kwel/\tto put an end to disorder or calm a feeling\t진압하다, 가라앉히다
+00197	1970-01-01 00:00:00	0000	0000	redundant	/rɪˈdʌndənt/\tno longer needed or unnecessarily repetitive\t불필요한, 중복되는
+00198	1970-01-01 00:00:00	0000	0000	refute	/rɪˈfjuːt/\tto prove a statement or theory wrong\t반박하다, 그릇됨을 입증하다
+00199	1970-01-01 00:00:00	0000	0000	remedial	/rɪˈmiːdiəl/\tintended to correct or improve a problem\t교정하는, 치료하는
+00200	1970-01-01 00:00:00	0000	0000	remorse	/rɪˈmɔːrs/\tdeep regret or guilt\t후회, 자책
+00201	1970-01-01 00:00:00	0000	0000	renounce	/rɪˈnaʊns/\tto formally give up a claim, belief, or right\t포기하다, 단념하다
+00202	1970-01-01 00:00:00	0000	0000	resilient	/rɪˈzɪliənt/\table to recover quickly from difficulty\t회복력 있는, 탄력 있는
+00203	1970-01-01 00:00:00	0000	0000	resolute	/ˈrezəluːt/\tdetermined and unwavering\t단호한, 확고한
+00204	1970-01-01 00:00:00	0000	0000	rhetoric	/ˈretərɪk/\tthe art of persuasive speaking or writing\t수사학, 미사여구
+00205	1970-01-01 00:00:00	0000	0000	rigorous	/ˈrɪɡərəs/\textremely thorough, strict, or accurate\t엄격한, 철저한
+00206	1970-01-01 00:00:00	0000	0000	robust	/roʊˈbʌst/\tstrong, healthy, or effective\t튼튼한, 강건한
+00207	1970-01-01 00:00:00	0000	0000	salient	/ˈseɪliənt/\tmost noticeable or important\t두드러진, 핵심적인
+00208	1970-01-01 00:00:00	0000	0000	sanction	/ˈsæŋkʃn/\tan official penalty or official approval\t제재, 공식 승인
+00209	1970-01-01 00:00:00	0000	0000	sanguine	/ˈsæŋɡwɪn/\toptimistic despite difficulties\t낙관적인
+00210	1970-01-01 00:00:00	0000	0000	scanty	/ˈskænti/\tsmall or insufficient in amount\t부족한, 얼마 안 되는
+00211	1970-01-01 00:00:00	0000	0000	scrutinize	/ˈskruːtənaɪz/\tto examine closely and thoroughly\t면밀히 조사하다
+00212	1970-01-01 00:00:00	0000	0000	sedentary	/ˈsednteəri/\tinvolving much sitting and little activity\t주로 앉아서 하는
+00213	1970-01-01 00:00:00	0000	0000	serendipity	/ˌserənˈdɪpəti/\ta fortunate discovery made by chance\t뜻밖의 행운
+00214	1970-01-01 00:00:00	0000	0000	serene	/səˈriːn/\tcalm, peaceful, and untroubled\t고요한, 평화로운
+00215	1970-01-01 00:00:00	0000	0000	shrewd	/ʃruːd/\tshowing sharp judgment\t영리한, 판단력이 빠른
+00216	1970-01-01 00:00:00	0000	0000	somatic	/soʊˈmætɪk/\trelating to the body rather than the mind\t신체의, 육체의
+00217	1970-01-01 00:00:00	0000	0000	spectrum	/ˈspektrəm/\ta range of related qualities or values\t범위, 스펙트럼
+00218	1970-01-01 00:00:00	0000	0000	sporadic	/spəˈrædɪk/\toccurring irregularly or in scattered places\t산발적인, 간헐적인
+00219	1970-01-01 00:00:00	0000	0000	stagnant	/ˈstæɡnənt/\tnot moving, flowing, or developing\t고여 있는, 침체된
+00220	1970-01-01 00:00:00	0000	0000	stagnate	/ˈstæɡneɪt/\tto stop developing or moving\t침체되다, 정체되다
+00221	1970-01-01 00:00:00	0000	0000	stark	/stɑːrk/\tsevere, plain, or sharply evident\t삭막한, 극명한
+00222	1970-01-01 00:00:00	0000	0000	subsequent	/ˈsʌbsɪkwənt/\tcoming afterward in time or order\t그다음의, 차후의
+00223	1970-01-01 00:00:00	0000	0000	succinct	/səkˈsɪŋkt/\tbriefly and clearly expressed\t간결한, 명료한
+00224	1970-01-01 00:00:00	0000	0000	sullen	/ˈsʌlən/\tbad-tempered, silent, and gloomy\t뚱한, 시무룩한
+00225	1970-01-01 00:00:00	0000	0000	sundry	/ˈsʌndri/\tof various kinds\t여러 가지의, 잡다한
+00226	1970-01-01 00:00:00	0000	0000	suppress	/səˈpres/\tto forcibly stop or prevent something\t억압하다, 진압하다
+00227	1970-01-01 00:00:00	0000	0000	tacit	/ˈtæsɪt/\tunderstood without being stated\t암묵적인, 묵시적인
+00228	1970-01-01 00:00:00	0000	0000	tenacious	/təˈneɪʃəs/\tpersistent and unwilling to give up\t집요한, 끈질긴
+00229	1970-01-01 00:00:00	0000	0000	tenuous	/ˈtenjuəs/\tvery weak, slight, or uncertain\t미약한, 빈약한
+00230	1970-01-01 00:00:00	0000	0000	tepid	/ˈtepɪd/\tonly slightly warm or lacking enthusiasm\t미지근한, 열의 없는
+00231	1970-01-01 00:00:00	0000	0000	terse	/tɜːrs/\tusing few words, sometimes abruptly\t간결한, 퉁명스러운
+00232	1970-01-01 00:00:00	0000	0000	tranquil	/ˈtræŋkwɪl/\tcalm and free from disturbance\t조용한, 평온한
+00233	1970-01-01 00:00:00	0000	0000	transient	/ˈtrænʒnt/\tlasting only a short time\t일시적인, 순간적인
+00234	1970-01-01 00:00:00	0000	0000	transitory	/ˈtrænsətɔːri/\tnot permanent; temporary\t일시적인
+00235	1970-01-01 00:00:00	0000	0000	trite	/traɪt/\toverused and lacking originality\t진부한
+00236	1970-01-01 00:00:00	0000	0000	ubiquitous	/juːˈbɪkwɪtəs/\tpresent or found everywhere\t어디에나 있는, 흔한
+00237	1970-01-01 00:00:00	0000	0000	undermine	/ˌʌndərˈmaɪn/\tto gradually weaken effectiveness or authority\t서서히 약화시키다
+00238	1970-01-01 00:00:00	0000	0000	unequivocal	/ˌʌnɪˈkwɪvəkl/\tclear and leaving no doubt\t명백한, 분명한
+00239	1970-01-01 00:00:00	0000	0000	ungainly	/ʌnˈɡeɪnli/\tawkward or clumsy\t어색한, 서투른
+00240	1970-01-01 00:00:00	0000	0000	untenable	/ʌnˈtenəbl/\tunable to be defended or maintained\t옹호하거나 유지할 수 없는
+00241	1970-01-01 00:00:00	0000	0000	unyielding	/ʌnˈjiːldɪŋ/\tnot giving way under pressure\t완강한, 단단한
+00242	1970-01-01 00:00:00	0000	0000	vacillate	/ˈvæsəleɪt/\tto waver between different choices\t동요하다, 망설이다
+00243	1970-01-01 00:00:00	0000	0000	vehement	/ˈviːəmənt/\tshowing intense feeling or conviction\t격렬한, 열렬한
+00244	1970-01-01 00:00:00	0000	0000	verbose	/vɜːrˈboʊs/\tusing more words than necessary\t장황한, 말이 많은
+00245	1970-01-01 00:00:00	0000	0000	vex	/veks/\tto annoy, frustrate, or worry someone\t짜증나게 하다, 괴롭히다
+00246	1970-01-01 00:00:00	0000	0000	viable	/ˈvaɪəbl/\tcapable of working successfully\t실행 가능한
+00247	1970-01-01 00:00:00	0000	0000	vicarious	/vaɪˈkeriəs/\texperienced through another person's actions or feelings\t대리의, 간접 경험의
+00248	1970-01-01 00:00:00	0000	0000	vigilant	/ˈvɪdʒɪlənt/\tcarefully watching for danger\t경계하는, 방심하지 않는
+00249	1970-01-01 00:00:00	0000	0000	vindicate	/ˈvɪndɪkeɪt/\tto clear someone of blame or prove something justified\t무죄를 입증하다, 정당성을 밝히다
+00250	1970-01-01 00:00:00	0000	0000	virulent	/ˈvɪrjələnt/\textremely harmful or hostile\t맹독성의, 악의에 찬
+00251	1970-01-01 00:00:00	0000	0000	viscous	/ˈvɪskəs/\thaving a thick and sticky consistency\t끈적거리는, 점성이 있는
+00252	1970-01-01 00:00:00	0000	0000	volatile	/ˈvɑːlətl/\tlikely to change suddenly and unpredictably\t불안정한, 변덕스러운
+00253	1970-01-01 00:00:00	0000	0000	voracious	/vəˈreɪʃəs/\twanting or consuming a great quantity\t게걸스러운, 지식욕이 왕성한
+00254	1970-01-01 00:00:00	0000	0000	wane	/weɪn/\tto decrease in strength or size\t약해지다, 쇠퇴하다
+00255	1970-01-01 00:00:00	0000	0000	wary	/ˈweri/\tcautious about possible danger\t경계하는, 신중한
+00256	1970-01-01 00:00:00	0000	0000	waver	/ˈweɪvər/\tto become unsteady or indecisive\t흔들리다, 주저하다
+00257	1970-01-01 00:00:00	0000	0000	whimsical	/ˈwɪmzɪkl/\tplayfully unusual or fanciful\t기발한, 엉뚱한
+00258	1970-01-01 00:00:00	0000	0000	willful	/ˈwɪlfl/\tintentional or stubbornly determined\t고의적인, 고집스러운
+00259	1970-01-01 00:00:00	0000	0000	wither	/ˈwɪðər/\tto become dry, weak, or less successful\t시들다, 쇠퇴하다
+00260	1970-01-01 00:00:00	0000	0000	witty	/ˈwɪti/\tshowing quick and inventive humor\t재치 있는
+00261	1970-01-01 00:00:00	0000	0000	zeal	/ˈziːl/\tgreat energy and enthusiasm\t열의, 열정
+00262	1970-01-01 00:00:00	0000	0000	zealous	/ˈzeləs/\tshowing great enthusiasm for a cause\t열성적인, 열렬한
+00263	1970-01-01 00:00:00	0000	0000	zenith	/ˈziːnɪθ/\tthe highest or most successful point\t정점, 절정
+00264	1970-01-01 00:00:00	0000	0000	abate	/əˈbeɪt/\tto become or make less intense\t약해지다, 완화하다
+00265	1970-01-01 00:00:00	0000	0000	abdicate	/ˈæbdɪkeɪt/\tto formally give up power or responsibility\t퇴위하다, 책임을 포기하다
+00266	1970-01-01 00:00:00	0000	0000	aberrant	/æˈberənt/\tdeparting from an accepted standard\t정도를 벗어난, 일탈적인
+00267	1970-01-01 00:00:00	0000	0000	aberration	/ˌæbəˈreɪʃn/\ta departure from what is normal or expected\t일탈, 이상 현상
+00268	1970-01-01 00:00:00	0000	0000	abhor	/əbˈhɔːr/\tto hate something intensely\t몹시 싫어하다, 혐오하다
+00269	1970-01-01 00:00:00	0000	0000	abridge	/əˈbrɪdʒ/\tto shorten a text without losing its main ideas\t축약하다, 요약하다
+00270	1970-01-01 00:00:00	0000	0000	abstain	/əbˈsteɪn/\tto deliberately refrain from doing something\t삼가다, 기권하다
+00271	1970-01-01 00:00:00	0000	0000	acumen	/ˈækjəmən/\tthe ability to make good judgments quickly\t통찰력, 판단력
+00272	1970-01-01 00:00:00	0000	0000	adamant	/ˈædəmənt/\trefusing to change one's mind\t단호한, 완강한
+00273	1970-01-01 00:00:00	0000	0000	admonish	/ədˈmɑːnɪʃ/\tto warn or reprimand firmly\t훈계하다, 경고하다
+00274	1970-01-01 00:00:00	0000	0000	adroit	/əˈdrɔɪt/\tclever and skillful\t능숙한, 노련한
+00275	1970-01-01 00:00:00	0000	0000	adversary	/ˈædvərsəri/\tan opponent in a conflict or contest\t적, 상대
+00276	1970-01-01 00:00:00	0000	0000	aesthetic	/esˈθetɪk/\trelating to beauty or artistic appreciation\t미적인, 심미적인
+00277	1970-01-01 00:00:00	0000	0000	affable	/ˈæfəbl/\tfriendly and easy to talk to\t붙임성 있는, 상냥한
+00278	1970-01-01 00:00:00	0000	0000	affirmation	/ˌæfərˈmeɪʃn/\ta statement of confirmation or support\t확언, 지지
+00279	1970-01-01 00:00:00	0000	0000	affront	/əˈfrʌnt/\tan action or remark that causes offense\t모욕, 무례
+00280	1970-01-01 00:00:00	0000	0000	aloof	/əˈluːf/\temotionally distant and unfriendly\t냉담한, 거리를 두는
+00281	1970-01-01 00:00:00	0000	0000	altruistic	/ˌæltruˈɪstɪk/\tselflessly concerned for other people's welfare\t이타적인
+00282	1970-01-01 00:00:00	0000	0000	amalgam	/əˈmælɡəm/\ta mixture of different elements\t혼합물, 결합체
+00283	1970-01-01 00:00:00	0000	0000	ambience	/ˈæmbiəns/\tthe atmosphere or character of a place\t분위기, 환경
+00284	1970-01-01 00:00:00	0000	0000	ambiguity	/ˌæmbɪˈɡjuːəti/\tthe quality of having more than one possible meaning\t모호함, 다의성
+00285	1970-01-01 00:00:00	0000	0000	ambivalence	/æmˈbɪvələns/\tthe state of having conflicting feelings\t양가감정
+00286	1970-01-01 00:00:00	0000	0000	ambivalent	/æmˈbɪvələnt/\thaving mixed or contradictory feelings\t상반된 감정을 가진
+00287	1970-01-01 00:00:00	0000	0000	ameliorate	/əˈmiːliəreɪt/\tto make a bad condition better\t개선하다, 호전시키다
+00288	1970-01-01 00:00:00	0000	0000	amenable	/əˈmiːnəbl/\topen and responsive to suggestions\t잘 받아들이는, 순응하는
+00289	1970-01-01 00:00:00	0000	0000	amiable	/ˈeɪmiəbl/\tfriendly and pleasant\t상냥한, 친근한
+00290	1970-01-01 00:00:00	0000	0000	amorphous	/əˈmɔːrfəs/\twithout a clearly defined shape or structure\t무정형의, 형태가 없는
+00291	1970-01-01 00:00:00	0000	0000	anachronism	/əˈnækrənɪzm/\tsomething placed in the wrong historical period\t시대착오적인 것
+00292	1970-01-01 00:00:00	0000	0000	anachronistic	/əˌnækrəˈnɪstɪk/\tbelonging to a different historical period\t시대착오적인
+00293	1970-01-01 00:00:00	0000	0000	anomalous	/əˈnɑːmələs/\tdeviating from what is normal or expected\t이례적인, 변칙적인
+00294	1970-01-01 00:00:00	0000	0000	animosity	/ˌænɪˈmɑːsəti/\tstrong hostility\t적대감, 반목
+00295	1970-01-01 00:00:00	0000	0000	annihilate	/əˈnaɪəleɪt/\tto destroy completely\t전멸시키다
+00296	1970-01-01 00:00:00	0000	0000	annul	/əˈnʌl/\tto officially declare something invalid\t무효로 하다, 취소하다
+00297	1970-01-01 00:00:00	0000	0000	antipathy	/ænˈtɪpəθi/\ta strong feeling of dislike\t반감, 혐오
+00298	1970-01-01 00:00:00	0000	0000	antiquated	/ˈæntɪkweɪtɪd/\told-fashioned and no longer useful\t구식의, 낡은
+00299	1970-01-01 00:00:00	0000	0000	appease	/əˈpiːz/\tto calm someone by meeting their demands\t달래다, 유화하다
+00300	1970-01-01 00:00:00	0000	0000	apprise	/əˈpraɪz/\tto inform someone about something\t알리다, 통지하다
+00301	1970-01-01 00:00:00	0000	0000	ardent	/ˈɑːrdnt/\tvery enthusiastic or passionate\t열렬한, 열정적인
+00302	1970-01-01 00:00:00	0000	0000	ardor	/ˈɑːrdər/\tenthusiasm or passion\t열정, 열의
+00303	1970-01-01 00:00:00	0000	0000	arrogance	/ˈærəɡəns/\tan attitude of superiority\t오만, 자만
+00304	1970-01-01 00:00:00	0000	0000	artful	/ˈɑːrtfl/\tclever or skillful, often deceptively\t교묘한, 기교 있는
+00305	1970-01-01 00:00:00	0000	0000	artless	/ˈɑːrtləs/\tsimple, sincere, and without deception\t꾸밈없는, 순진한
+00306	1970-01-01 00:00:00	0000	0000	ascetic	/əˈsetɪk/\tpracticing severe self-discipline and abstinence\t금욕적인
+00307	1970-01-01 00:00:00	0000	0000	assail	/əˈseɪl/\tto attack physically or verbally\t공격하다, 퍼붓다
+00308	1970-01-01 00:00:00	0000	0000	assent	/əˈsent/\tthe expression of agreement or approval\t동의, 승인
+00309	1970-01-01 00:00:00	0000	0000	assiduous	/əˈsɪdʒuəs/\tshowing persistent care and effort\t근면한, 끈기 있는
+00310	1970-01-01 00:00:00	0000	0000	assuage	/əˈsweɪdʒ/\tto make an unpleasant feeling less intense\t진정시키다, 누그러뜨리다
+00311	1970-01-01 00:00:00	0000	0000	astute	/əˈstuːt/\tshowing sharp judgment and insight\t기민한, 판단력이 뛰어난
+00312	1970-01-01 00:00:00	0000	0000	atrophy	/ˈætrəfi/\tto gradually weaken through lack of use\t퇴화하다, 쇠약해지다
+00313	1970-01-01 00:00:00	0000	0000	attenuate	/əˈtenjueɪt/\tto reduce the force or effect of something\t약화시키다
+00314	1970-01-01 00:00:00	0000	0000	attrition	/əˈtrɪʃn/\tgradual reduction through sustained pressure or loss\t소모, 마모
+00315	1970-01-01 00:00:00	0000	0000	atypical	/ˌeɪˈtɪpɪkl/\tnot typical or representative\t비전형적인, 이례적인
+00316	1970-01-01 00:00:00	0000	0000	audacious	/ɔːˈdeɪʃəs/\twilling to take bold risks\t대담한, 무모한
+00317	1970-01-01 00:00:00	0000	0000	audacity	/ɔːˈdæsəti/\tboldness that may be daring or disrespectful\t대담함, 뻔뻔함
+00318	1970-01-01 00:00:00	0000	0000	augment	/ɔːɡˈment/\tto increase by adding something\t증대시키다
+00319	1970-01-01 00:00:00	0000	0000	auspicious	/ɔːˈspɪʃəs/\tfavorable and suggesting future success\t길조의, 상서로운
+00320	1970-01-01 00:00:00	0000	0000	austere	/ɔːˈstɪr/\tsevere, strict, or plain in appearance\t엄격한, 소박한
+00321	1970-01-01 00:00:00	0000	0000	avow	/əˈvaʊ/\tto state or admit something openly\t공언하다, 자백하다
+00322	1970-01-01 00:00:00	0000	0000	awry	/əˈraɪ/\taway from the intended or expected course\t빗나간, 잘못된
+00323	1970-01-01 00:00:00	0000	0000	axiom	/ˈæksiəm/\ta statement accepted as self-evidently true\t공리, 자명한 이치
+00324	1970-01-01 00:00:00	0000	0000	balk	/bɔːk/\tto hesitate or refuse to accept something\t망설이다, 난색을 보이다
+00325	1970-01-01 00:00:00	0000	0000	banal	/bəˈnɑːl/\tlacking originality and therefore boring\t진부한, 평범한
+00326	1970-01-01 00:00:00	0000	0000	bastion	/ˈbæstiən/\ta strong defender of particular principles\t보루, 수호자
+00327	1970-01-01 00:00:00	0000	0000	belie	/bɪˈlaɪ/\tto give a false impression of something\t잘못된 인상을 주다
+00328	1970-01-01 00:00:00	0000	0000	belligerent	/bəˈlɪdʒərənt/\thostile and aggressive\t호전적인, 공격적인
+00329	1970-01-01 00:00:00	0000	0000	bemoan	/bɪˈmoʊn/\tto express sorrow or dissatisfaction\t한탄하다
+00330	1970-01-01 00:00:00	0000	0000	benevolent	/bəˈnevələnt/\tkind and well meaning\t자애로운, 선량한
+00331	1970-01-01 00:00:00	0000	0000	benign	/bɪˈnaɪn/\tgentle, kindly, or not harmful\t상냥한, 양성의, 무해한
+00332	1970-01-01 00:00:00	0000	0000	bereft	/bɪˈreft/\tdeprived of or lacking something\t빼앗긴, 상실한
+00333	1970-01-01 00:00:00	0000	0000	beseech	/bɪˈsiːtʃ/\tto urgently beg someone to do something\t간청하다, 탄원하다
+00334	1970-01-01 00:00:00	0000	0000	boisterous	/ˈbɔɪstərəs/\tnoisy, energetic, and rowdy\t시끄러운, 떠들썩한
+00335	1970-01-01 00:00:00	0000	0000	boorish	/ˈbʊrɪʃ/\trude and bad-mannered\t무례한, 천박한
+00336	1970-01-01 00:00:00	0000	0000	bravado	/brəˈvɑːdoʊ/\ta show of boldness intended to impress\t허세, 만용
+00337	1970-01-01 00:00:00	0000	0000	brevity	/ˈbrevəti/\tconcise use of words or short duration\t간결함, 짧음
+00338	1970-01-01 00:00:00	0000	0000	brusque	/brʌsk/\tabrupt and unfriendly in manner\t무뚝뚝한, 퉁명스러운
+00339	1970-01-01 00:00:00	0000	0000	buoyant	/ˈbɔɪənt/\table to float or cheerful and optimistic\t부력이 있는, 명랑한
+00340	1970-01-01 00:00:00	0000	0000	burgeon	/ˈbɜːrdʒən/\tto grow or increase rapidly\t급성장하다, 번창하다
+00341	1970-01-01 00:00:00	0000	0000	buttress	/ˈbʌtrəs/\tto support or strengthen an argument or structure\t지지하다, 강화하다
+00342	1970-01-01 00:00:00	0000	0000	cajole	/kəˈdʒoʊl/\tto persuade through flattery or gentle pressure\t감언이설로 설득하다
+00343	1970-01-01 00:00:00	0000	0000	calamitous	/kəˈlæmɪtəs/\tcausing great damage or distress\t재앙을 초래하는
+00344	1970-01-01 00:00:00	0000	0000	candid	/ˈkændɪd/\ttruthful and straightforward\t솔직한, 숨김없는
+00345	1970-01-01 00:00:00	0000	0000	candor	/ˈkændər/\topen and honest expression\t솔직함, 정직
+00346	1970-01-01 00:00:00	0000	0000	capricious	/kəˈprɪʃəs/\tsubject to sudden unpredictable changes\t변덕스러운
+00347	1970-01-01 00:00:00	0000	0000	capitulate	/kəˈpɪtʃuleɪt/\tto stop resisting and surrender\t굴복하다, 항복하다
+00348	1970-01-01 00:00:00	0000	0000	castigate	/ˈkæstɪɡeɪt/\tto criticize or punish severely\t혹평하다, 엄하게 꾸짖다
+00349	1970-01-01 00:00:00	0000	0000	castigation	/ˌkæstɪˈɡeɪʃn/\tsevere criticism or punishment\t혹평, 엄벌
+00350	1970-01-01 00:00:00	0000	0000	categorical	/ˌkætəˈɡɔːrɪkl/\tdirect, explicit, and without exceptions\t단정적인, 명백한
+00351	1970-01-01 00:00:00	0000	0000	caustic	/ˈkɔːstɪk/\tsharply sarcastic or chemically corrosive\t신랄한, 부식성의
+00352	1970-01-01 00:00:00	0000	0000	censure	/ˈsenʃər/\tto express strong official disapproval\t비난하다, 견책하다
+00353	1970-01-01 00:00:00	0000	0000	chagrin	/ʃəˈɡrɪn/\tdistress caused by failure or humiliation\t분함, 당혹감
+00354	1970-01-01 00:00:00	0000	0000	chastise	/tʃæˈstaɪz/\tto reprimand or punish severely\t엄하게 꾸짖다
+00355	1970-01-01 00:00:00	0000	0000	circuitous	/sərˈkjuːətəs/\tlonger than the direct route; indirect\t우회하는, 에두르는
+00356	1970-01-01 00:00:00	0000	0000	circumscribe	/ˈsɜːrkəmskraɪb/\tto restrict something within limits\t제한하다
+00357	1970-01-01 00:00:00	0000	0000	circumspect	/ˈsɜːrkəmspekt/\tcareful to consider risks and consequences\t신중한, 용의주도한
+00358	1970-01-01 00:00:00	0000	0000	circumvent	/ˌsɜːrkəmˈvent/\tto find a way around an obstacle or rule\t우회하다, 회피하다
+00359	1970-01-01 00:00:00	0000	0000	clandestine	/klænˈdestɪn/\tkept secret, especially because it is illicit\t은밀한, 비밀의
+00360	1970-01-01 00:00:00	0000	0000	clemency	/ˈklemənsi/\tmercy or lenience in punishment\t자비, 관용
+00361	1970-01-01 00:00:00	0000	0000	coalesce	/ˌkoʊəˈles/\tto come together to form one whole\t합쳐지다, 통합되다
+00362	1970-01-01 00:00:00	0000	0000	coerce	/koʊˈɜːrs/\tto force someone to do something\t강요하다, 강제하다
+00363	1970-01-01 00:00:00	0000	0000	coercion	/koʊˈɜːrʒn/\tthe use of force or threats to compel someone\t강제, 강압
+00364	1970-01-01 00:00:00	0000	0000	cogent	/ˈkoʊdʒənt/\tclear, logical, and convincing\t설득력 있는
+00365	1970-01-01 00:00:00	0000	0000	cohere	/koʊˈhɪr/\tto form a logically consistent whole\t일관성을 이루다, 응집하다
+00366	1970-01-01 00:00:00	0000	0000	commensurate	/kəˈmenʃərət/\tcorresponding in size, degree, or proportion\t상응하는, 비례하는
+00367	1970-01-01 00:00:00	0000	0000	compendium	/kəmˈpendiəm/\ta concise collection of information\t개요서, 요약집
+00368	1970-01-01 00:00:00	0000	0000	complacent	/kəmˈpleɪsnt/\tuncritically satisfied with oneself\t현실에 안주하는, 자만하는
+00369	1970-01-01 00:00:00	0000	0000	conciliate	/kənˈsɪlieɪt/\tto stop someone from being angry or hostile\t달래다, 회유하다
+00370	1970-01-01 00:00:00	0000	0000	conciliatory	/kənˈsɪliətɔːri/\tintended to calm hostility\t회유적인, 화해를 위한
+00371	1970-01-01 00:00:00	0000	0000	concur	/kənˈkɜːr/\tto agree or occur at the same time\t동의하다, 동시에 발생하다
+00372	1970-01-01 00:00:00	0000	0000	concurrence	/kənˈkɜːrəns/\tagreement or simultaneous occurrence\t동의, 동시 발생
+00373	1970-01-01 00:00:00	0000	0000	condone	/kənˈdoʊn/\tto accept or overlook wrongful behavior\t용납하다, 묵인하다
+00374	1970-01-01 00:00:00	0000	0000	confluence	/ˈkɑːnfluəns/\ta merging or meeting of things\t합류, 융합
+00375	1970-01-01 00:00:00	0000	0000	congenial	/kənˈdʒiːniəl/\tpleasantly suitable or compatible\t마음이 맞는, 적합한
+00376	1970-01-01 00:00:00	0000	0000	consign	/kənˈsaɪn/\tto hand over for care or permanently assign\t맡기다, 위탁하다
+00377	1970-01-01 00:00:00	0000	0000	consternation	/ˌkɑːnstərˈneɪʃn/\tsudden anxiety or dismay\t경악, 크게 당황함
+00378	1970-01-01 00:00:00	0000	0000	construe	/kənˈstruː/\tto interpret something in a particular way\t해석하다
+00379	1970-01-01 00:00:00	0000	0000	contemptuous	/kənˈtemptʃuəs/\tshowing strong disrespect\t경멸하는
+00380	1970-01-01 00:00:00	0000	0000	contentious	/kənˈtenʃəs/\tlikely to cause argument or controversy\t논쟁적인, 다투기 좋아하는
+00381	1970-01-01 00:00:00	0000	0000	contrite	/kənˈtraɪt/\tfeeling sincere remorse\t뉘우치는, 회개하는
+00382	1970-01-01 00:00:00	0000	0000	contrive	/kənˈtraɪv/\tto devise or bring about through skill\t고안하다, 획책하다
+00383	1970-01-01 00:00:00	0000	0000	conversant	/kənˈvɜːrsnt/\tfamiliar with or knowledgeable about something\t정통한, 잘 아는
+00384	1970-01-01 00:00:00	0000	0000	convoluted	/ˈkɑːnvəluːtɪd/\textremely complex and difficult to follow\t복잡한, 뒤얽힌
+00385	1970-01-01 00:00:00	0000	0000	corroborate	/kəˈrɑːbəreɪt/\tto confirm a statement with additional evidence\t확증하다, 입증하다
+00386	1970-01-01 00:00:00	0000	0000	countenance	/ˈkaʊntənəns/\ta facial expression or approval and support\t표정, 지지하다
+00387	1970-01-01 00:00:00	0000	0000	credulous	/ˈkredʒələs/\ttoo ready to believe things\t잘 믿는, 속기 쉬운
+00388	1970-01-01 00:00:00	0000	0000	culpable	/ˈkʌlpəbl/\tdeserving blame\t비난받을 만한, 과실이 있는
+00389	1970-01-01 00:00:00	0000	0000	cumbersome	/ˈkʌmbərsəm/\tdifficult to carry, use, or manage\t다루기 힘든, 번거로운
+00390	1970-01-01 00:00:00	0000	0000	cursory	/ˈkɜːrsəri/\thasty and not thorough\t대충 하는, 피상적인
+00391	1970-01-01 00:00:00	0000	0000	dearth	/dɜːrθ/\ta scarcity or lack of something\t부족, 결핍
+00392	1970-01-01 00:00:00	0000	0000	debacle	/dɪˈbɑːkl/\ta sudden and humiliating failure\t대실패, 낭패
+00393	1970-01-01 00:00:00	0000	0000	debilitate	/dɪˈbɪlɪteɪt/\tto make someone or something weak\t쇠약하게 하다
+00394	1970-01-01 00:00:00	0000	0000	debunk	/ˌdiːˈbʌŋk/\tto expose a false belief or claim\t허구임을 밝히다
+00395	1970-01-01 00:00:00	0000	0000	decorous	/ˈdekərəs/\tpolite and appropriate in behavior\t예의 바른, 단정한
+00396	1970-01-01 00:00:00	0000	0000	decorum	/dɪˈkɔːrəm/\tproper and polite behavior\t예의범절, 점잖음
+00397	1970-01-01 00:00:00	0000	0000	deference	/ˈdefərəns/\trespectful submission to another person's judgment\t존중, 경의
+00398	1970-01-01 00:00:00	0000	0000	defiance	/dɪˈfaɪəns/\topen resistance or bold disobedience\t반항, 도전
+00399	1970-01-01 00:00:00	0000	0000	deflect	/dɪˈflekt/\tto cause something to change direction\t방향을 돌리다, 모면하다
+00400	1970-01-01 00:00:00	0000	0000	deleterious	/ˌdeləˈtɪriəs/\tcausing harm or damage\t해로운, 유해한
+00401	1970-01-01 00:00:00	0000	0000	delineate	/dɪˈlɪnieɪt/\tto describe or outline precisely\t상세히 묘사하다, 윤곽을 그리다
+00402	1970-01-01 00:00:00	0000	0000	delude	/dɪˈluːd/\tto make someone believe something false\t속이다, 현혹하다
+00403	1970-01-01 00:00:00	0000	0000	demean	/dɪˈmiːn/\tto damage someone's dignity\t품위를 손상시키다, 모욕하다
+00404	1970-01-01 00:00:00	0000	0000	demise	/dɪˈmaɪz/\tdeath or the end of an organization or system\t죽음, 종말
+00405	1970-01-01 00:00:00	0000	0000	demur	/dɪˈmɜːr/\tto express doubt, objection, or reluctance\t이의를 제기하다
+00406	1970-01-01 00:00:00	0000	0000	deplore	/dɪˈplɔːr/\tto strongly regret or disapprove of something\t개탄하다, 한탄하다
+00407	1970-01-01 00:00:00	0000	0000	deprecate	/ˈdeprəkeɪt/\tto express disapproval of something\t반대하다, 비난하다
+00408	1970-01-01 00:00:00	0000	0000	deride	/dɪˈraɪd/\tto ridicule or express contempt for\t조롱하다, 비웃다
+00409	1970-01-01 00:00:00	0000	0000	derivative	/dɪˈrɪvətɪv/\tderived from another source and lacking originality\t파생적인, 모방한
+00410	1970-01-01 00:00:00	0000	0000	derogatory	/dɪˈrɑːɡətɔːri/\tshowing disrespect or criticism\t비하하는, 경멸적인
+00411	1970-01-01 00:00:00	0000	0000	desiccate	/ˈdesɪkeɪt/\tto remove moisture and dry thoroughly\t건조시키다, 바짝 말리다
+00412	1970-01-01 00:00:00	0000	0000	despondent	/dɪˈspɑːndənt/\thaving lost hope\t낙담한, 실의에 빠진
+00413	1970-01-01 00:00:00	0000	0000	detract	/dɪˈtrækt/\tto reduce the value or quality of something\t가치를 떨어뜨리다
+00414	1970-01-01 00:00:00	0000	0000	devious	/ˈdiːviəs/\tdishonest or indirect in achieving a goal\t기만적인, 우회적인
+00415	1970-01-01 00:00:00	0000	0000	dexterous	/ˈdekstrəs/\tskillful, especially with the hands\t손재주가 좋은
+00416	1970-01-01 00:00:00	0000	0000	dichotomy	/daɪˈkɑːtəmi/\ta division into two contrasting parts\t이분법, 양분
+00417	1970-01-01 00:00:00	0000	0000	diffident	/ˈdɪfɪdənt/\tshy because of lacking self-confidence\t소심한, 자신감 없는
+00418	1970-01-01 00:00:00	0000	0000	digress	/daɪˈɡres/\tto temporarily leave the main subject\t본론에서 벗어나다
+00419	1970-01-01 00:00:00	0000	0000	dilapidated	/dɪˈlæpɪdeɪtɪd/\tin a state of ruin from age or neglect\t황폐한, 허물어진
+00420	1970-01-01 00:00:00	0000	0000	diligent	/ˈdɪlɪdʒənt/\tcareful and persistent in one's work\t근면한, 성실한
+00421	1970-01-01 00:00:00	0000	0000	diminutive	/dɪˈmɪnjətɪv/\textremely small\t아주 작은, 소형의
+00422	1970-01-01 00:00:00	0000	0000	disclaim	/dɪsˈkleɪm/\tto deny responsibility or ownership\t책임을 부인하다, 권리를 포기하다
+00423	1970-01-01 00:00:00	0000	0000	disconcert	/ˌdɪskənˈsɜːrt/\tto make someone uneasy or confused\t당황하게 하다, 불안하게 하다
+00424	1970-01-01 00:00:00	0000	0000	discordant	/dɪsˈkɔːrdənt/\tlacking harmony or agreement\t조화되지 않는, 불협화음의
+00425	1970-01-01 00:00:00	0000	0000	discreditable	/dɪsˈkredɪtəbl/\tlikely to damage one's reputation\t명예를 손상시키는
+00426	1970-01-01 00:00:00	0000	0000	discriminating	/dɪˈskrɪmɪneɪtɪŋ/\tshowing refined judgment or taste\t안목 있는, 식별력 있는
+00427	1970-01-01 00:00:00	0000	0000	disinterested	/dɪsˈɪntrəstɪd/\tnot influenced by personal advantage; impartial\t사심 없는, 공정한
+00428	1970-01-01 00:00:00	0000	0000	disparage	/dɪˈspærɪdʒ/\tto describe something as having little value\t폄하하다, 깎아내리다
+00429	1970-01-01 00:00:00	0000	0000	dispassionate	/dɪsˈpæʃənət/\tnot influenced by strong emotion\t냉정한, 객관적인
+00430	1970-01-01 00:00:00	0000	0000	dissuade	/dɪˈsweɪd/\tto persuade someone not to do something\t단념시키다, 말리다
+00431	1970-01-01 00:00:00	0000	0000	distend	/dɪˈstend/\tto swell or cause to expand\t부풀다, 팽창시키다
+00432	1970-01-01 00:00:00	0000	0000	divest	/daɪˈvest/\tto deprive someone of property, power, or rights\t박탈하다, 처분하다
+00433	1970-01-01 00:00:00	0000	0000	divulge	/daɪˈvʌldʒ/\tto reveal private or secret information\t누설하다, 폭로하다
+00434	1970-01-01 00:00:00	0000	0000	docile	/ˈdɑːsl/\teasily controlled or taught\t유순한, 고분고분한
+00435	1970-01-01 00:00:00	0000	0000	dogmatic	/dɔːɡˈmætɪk/\tasserting opinions as unquestionably true\t독단적인
+00436	1970-01-01 00:00:00	0000	0000	ebullient	/ɪˈbʊliənt/\tcheerful and full of energy\t활기찬, 사기충천한
+00437	1970-01-01 00:00:00	0000	0000	eclipse	/ɪˈklɪps/\tto obscure or surpass something\t가리다, 능가하다
+00438	1970-01-01 00:00:00	0000	0000	effusive	/ɪˈfjuːsɪv/\texpressing feelings in an unrestrained way\t감정을 과하게 드러내는
+00439	1970-01-01 00:00:00	0000	0000	egalitarian	/iˌɡælɪˈteriən/\tbelieving that all people are equal\t평등주의의
+00440	1970-01-01 00:00:00	0000	0000	egregious	/ɪˈɡriːdʒiəs/\toutstandingly bad or shocking\t지독한, 터무니없는
+00441	1970-01-01 00:00:00	0000	0000	elegy	/ˈelədʒi/\ta reflective poem mourning the dead\t애가, 비가
+00442	1970-01-01 00:00:00	0000	0000	elucidate	/ɪˈluːsɪdeɪt/\tto make something clear by explaining it\t명확히 설명하다
+00443	1970-01-01 00:00:00	0000	0000	embezzle	/ɪmˈbezl/\tto steal money entrusted to one's care\t횡령하다
+00444	1970-01-01 00:00:00	0000	0000	enervate	/ˈenərveɪt/\tto drain strength or energy\t기력을 빼앗다
+00445	1970-01-01 00:00:00	0000	0000	enigma	/ɪˈnɪɡmə/\ta mysterious or difficult-to-understand person or thing\t수수께끼
+00446	1970-01-01 00:00:00	0000	0000	enmity	/ˈenməti/\tactive hostility\t적의, 원한
+00447	1970-01-01 00:00:00	0000	0000	equanimity	/ˌekwəˈnɪməti/\tcalmness and composure in difficulty\t평정, 침착
+00448	1970-01-01 00:00:00	0000	0000	equivocal	/ɪˈkwɪvəkl/\tambiguous or deliberately unclear\t모호한, 애매한
+00449	1970-01-01 00:00:00	0000	0000	equivocate	/ɪˈkwɪvəkeɪt/\tto use ambiguous language to avoid commitment\t얼버무리다
+00450	1970-01-01 00:00:00	0000	0000	erudite	/ˈerudaɪt/\thaving extensive knowledge\t박식한, 학식 있는
+00451	1970-01-01 00:00:00	0000	0000	espouse	/ɪˈspaʊz/\tto adopt or publicly support a cause\t옹호하다, 지지하다
+00452	1970-01-01 00:00:00	0000	0000	estrange	/ɪˈstreɪndʒ/\tto cause someone to become emotionally distant\t소원하게 만들다
+00453	1970-01-01 00:00:00	0000	0000	euphemism	/ˈjuːfəmɪzm/\ta mild expression replacing a harsh one\t완곡어법
+00454	1970-01-01 00:00:00	0000	0000	evince	/ɪˈvɪns/\tto clearly reveal a quality or feeling\t분명히 나타내다
+00455	1970-01-01 00:00:00	0000	0000	exacerbate	/ɪɡˈzæsərbeɪt/\tto make a problem or situation worse\t악화시키다
+00456	1970-01-01 00:00:00	0000	0000	exacting	/ɪɡˈzæktɪŋ/\tdemanding great skill, effort, or attention\t까다로운, 힘든
+00457	1970-01-01 00:00:00	0000	0000	exasperate	/ɪɡˈzæspəreɪt/\tto irritate someone intensely\t격분시키다, 짜증나게 하다
+00458	1970-01-01 00:00:00	0000	0000	exemplary	/ɪɡˈzempləri/\tserving as an excellent model\t모범적인
+00459	1970-01-01 00:00:00	0000	0000	exhaustive	/ɪɡˈzɔːstɪv/\tfully comprehensive and thorough\t철저한, 빠짐없는
+00460	1970-01-01 00:00:00	0000	0000	exhilarate	/ɪɡˈzɪləreɪt/\tto make someone feel very excited and happy\t들뜨게 하다
+00461	1970-01-01 00:00:00	0000	0000	exonerate	/ɪɡˈzɑːnəreɪt/\tto officially clear someone of blame\t무죄임을 밝히다
+00462	1970-01-01 00:00:00	0000	0000	exorbitant	/ɪɡˈzɔːrbɪtənt/\tunreasonably high in price or amount\t터무니없이 비싼, 과도한
+00463	1970-01-01 00:00:00	0000	0000	expedient	/ɪkˈspiːdiənt/\tconvenient and practical despite possible impropriety\t편리한, 편의주의적인
+00464	1970-01-01 00:00:00	0000	0000	explicate	/ˈeksplɪkeɪt/\tto explain an idea in detail\t상세히 설명하다
+00465	1970-01-01 00:00:00	0000	0000	expunge	/ɪkˈspʌndʒ/\tto erase or remove completely\t지우다, 삭제하다
+00466	1970-01-01 00:00:00	0000	0000	extol	/ɪkˈstoʊl/\tto praise enthusiastically\t격찬하다
+00467	1970-01-01 00:00:00	0000	0000	extrapolate	/ɪkˈstræpəleɪt/\tto estimate by extending known trends\t외삽하다, 추정하다
+00468	1970-01-01 00:00:00	0000	0000	extricate	/ˈekstrɪkeɪt/\tto free someone from difficulty or constraint\t구출하다, 벗어나게 하다
+00469	1970-01-01 00:00:00	0000	0000	facetious	/fəˈsiːʃəs/\ttreating serious matters with inappropriate humor\t익살스러운, 경박한
+00470	1970-01-01 00:00:00	0000	0000	facile	/ˈfæsl/\toversimplified or achieved with little effort\t피상적인, 손쉬운
+00471	1970-01-01 00:00:00	0000	0000	fallacious	/fəˈleɪʃəs/\tbased on false or unsound reasoning\t그릇된, 오류에 근거한
+00472	1970-01-01 00:00:00	0000	0000	fastidious	/fæˈstɪdiəs/\tvery attentive to accuracy and detail\t까다로운, 세심한
+00473	1970-01-01 00:00:00	0000	0000	fathom	/ˈfæðəm/\tto understand something difficult\t헤아리다, 이해하다
+00474	1970-01-01 00:00:00	0000	0000	fatuous	/ˈfætʃuəs/\tsilly and pointless\t어리석은, 얼빠진
+00475	1970-01-01 00:00:00	0000	0000	fawning	/ˈfɔːnɪŋ/\tshowing excessive flattery\t아부하는, 알랑거리는
+00476	1970-01-01 00:00:00	0000	0000	fervent	/ˈfɜːrvnt/\tshowing passionate intensity\t열렬한
+00477	1970-01-01 00:00:00	0000	0000	finesse	/fɪˈnes/\trefined skill in handling a difficult situation\t수완, 기교
+00478	1970-01-01 00:00:00	0000	0000	flippant	/ˈflɪpnt/\tnot showing proper seriousness or respect\t경솔한, 건방진
+00479	1970-01-01 00:00:00	0000	0000	florid	/ˈflɔːrɪd/\texcessively elaborate or having a flushed complexion\t화려한, 현란한
+00480	1970-01-01 00:00:00	0000	0000	flout	/flaʊt/\tto openly disregard a rule or law\t공공연히 무시하다
+00481	1970-01-01 00:00:00	0000	0000	foible	/ˈfɔɪbl/\ta minor weakness in someone's character\t사소한 약점
+00482	1970-01-01 00:00:00	0000	0000	foment	/foʊˈment/\tto stir up conflict or unrest\t조장하다, 선동하다
+00483	1970-01-01 00:00:00	0000	0000	forbear	/fɔːrˈber/\tto patiently refrain from doing something\t삼가다, 참다
+00484	1970-01-01 00:00:00	0000	0000	foreboding	/fɔːrˈboʊdɪŋ/\ta feeling that something bad will happen\t불길한 예감
+00485	1970-01-01 00:00:00	0000	0000	fortuitous	/fɔːrˈtuːɪtəs/\thappening by chance\t우연한
+00486	1970-01-01 00:00:00	0000	0000	fractious	/ˈfrækʃəs/\tirritable and difficult to control\t성미가 까다로운
+00487	1970-01-01 00:00:00	0000	0000	fraught	/frɔːt/\tfilled with difficulty, danger, or anxiety\t문제나 위험으로 가득한
+00488	1970-01-01 00:00:00	0000	0000	furtive	/ˈfɜːrtɪv/\tsecretive in an attempt to avoid notice\t은밀한, 수상쩍은
+00489	1970-01-01 00:00:00	0000	0000	galvanize	/ˈɡælvənaɪz/\tto shock or inspire someone into action\t자극하여 행동하게 하다
+00490	1970-01-01 00:00:00	0000	0000	garrulous	/ˈɡærələs/\texcessively talkative\t수다스러운, 장황한
+00491	1970-01-01 00:00:00	0000	0000	glib	/ɡlɪb/\tfluently persuasive but shallow or insincere\t말만 번지르르한
+00492	1970-01-01 00:00:00	0000	0000	goad	/ɡoʊd/\tto provoke someone into taking action\t자극하다, 부추기다
+00493	1970-01-01 00:00:00	0000	0000	grandiose	/ˈɡrændioʊs/\timpressive in a pretentious or exaggerated way\t거창한, 과장된
+00494	1970-01-01 00:00:00	0000	0000	grievous	/ˈɡriːvəs/\tvery severe or serious\t심각한, 통탄할
+00495	1970-01-01 00:00:00	0000	0000	guile	/ɡaɪl/\tcunning or deceitful intelligence\t교활함, 간계
+00496	1970-01-01 00:00:00	0000	0000	gullible	/ˈɡʌləbl/\teasily deceived or persuaded\t잘 속는
+00497	1970-01-01 00:00:00	0000	0000	hackneyed	/ˈhæknid/\toverused and lacking originality\t진부한
+00498	1970-01-01 00:00:00	0000	0000	harangue	/həˈræŋ/\ta long and aggressive speech\t장광설, 비난 연설
+00499	1970-01-01 00:00:00	0000	0000	harbinger	/ˈhɑːrbɪndʒər/\tsomething that signals what is coming\t전조, 선구자
+00500	1970-01-01 00:00:00	0000	0000	haughty	/ˈhɔːti/\tarrogantly superior\t거만한, 오만한
+00501	1970-01-01 00:00:00	0000	0000	hegemony	/hɪˈdʒeməni/\tdominance by one group or country\t패권, 주도권
+00502	1970-01-01 00:00:00	0000	0000	heinous	/ˈheɪnəs/\textremely wicked or shocking\t극악무도한
+00503	1970-01-01 00:00:00	0000	0000	homage	/ˈhɑːmɪdʒ/\tpublicly expressed honor or respect\t경의, 존경
+00504	1970-01-01 00:00:00	0000	0000	hubris	/ˈhjuːbrɪs/\texcessive pride or self-confidence\t오만, 자만심
+00505	1970-01-01 00:00:00	0000	0000	hyperbole	/haɪˈpɜːrbəli/\tdeliberate exaggeration not meant literally\t과장법
+00506	1970-01-01 00:00:00	0000	0000	hypocritical	/ˌhɪpəˈkrɪtɪkl/\tpretending to have moral standards one does not follow\t위선적인
+00507	1970-01-01 00:00:00	0000	0000	idiosyncrasy	/ˌɪdiəˈsɪŋkrəsi/\ta distinctive personal habit or characteristic\t개인적인 특이점
+00508	1970-01-01 00:00:00	0000	0000	idiosyncratic	/ˌɪdiəsɪŋˈkrætɪk/\tdistinctive to a particular individual\t특이한, 독특한
+00509	1970-01-01 00:00:00	0000	0000	ignominious	/ˌɪɡnəˈmɪniəs/\tcausing public shame or disgrace\t수치스러운
+00510	1970-01-01 00:00:00	0000	0000	illusory	/ɪˈluːsəri/\tbased on an illusion and not real\t환상에 불과한
+00511	1970-01-01 00:00:00	0000	0000	imbibe	/ɪmˈbaɪb/\tto drink or absorb ideas and knowledge\t마시다, 흡수하다
+00512	1970-01-01 00:00:00	0000	0000	immutable	/ɪˈmjuːtəbl/\tunable to be changed\t불변의
+00513	1970-01-01 00:00:00	0000	0000	impassioned	/ɪmˈpæʃnd/\tfilled with strong emotion\t열정적인
+00514	1970-01-01 00:00:00	0000	0000	impassive	/ɪmˈpæsɪv/\tshowing no emotion\t감정을 드러내지 않는
+00515	1970-01-01 00:00:00	0000	0000	impervious	/ɪmˈpɜːrviəs/\tunable to be penetrated or affected\t통과시키지 않는, 영향받지 않는
+00516	1970-01-01 00:00:00	0000	0000	impetuous	/ɪmˈpetʃuəs/\tacting quickly without thought\t충동적인, 성급한
+00517	1970-01-01 00:00:00	0000	0000	impetus	/ˈɪmpɪtəs/\ta force that causes something to happen\t추진력, 자극
+00518	1970-01-01 00:00:00	0000	0000	impinge	/ɪmˈpɪndʒ/\tto have a negative effect on something\t침해하다, 영향을 미치다
+00519	1970-01-01 00:00:00	0000	0000	implacable	/ɪmˈplækəbl/\tunable to be calmed or satisfied\t달랠 수 없는, 완강한
+00520	1970-01-01 00:00:00	0000	0000	impromptu	/ɪmˈprɑːmptuː/\tdone without preparation\t즉흥적인
+00521	1970-01-01 00:00:00	0000	0000	impugn	/ɪmˈpjuːn/\tto challenge the truth or integrity of something\t진실성에 의문을 제기하다
+00522	1970-01-01 00:00:00	0000	0000	inalienable	/ɪnˈeɪliənəbl/\tunable to be taken away or transferred\t빼앗거나 양도할 수 없는
+00523	1970-01-01 00:00:00	0000	0000	inane	/ɪˈneɪn/\tsilly and lacking meaning\t어리석은, 무의미한
+00524	1970-01-01 00:00:00	0000	0000	incisive	/ɪnˈsaɪsɪv/\tclear, sharp, and intelligently analytical\t날카로운, 명쾌한
+00525	1970-01-01 00:00:00	0000	0000	incite	/ɪnˈsaɪt/\tto encourage violent or unlawful behavior\t선동하다, 부추기다
+00526	1970-01-01 00:00:00	0000	0000	inclement	/ɪnˈklemənt/\tsevere and unpleasant, especially of weather\t혹독한, 궂은
+00527	1970-01-01 00:00:00	0000	0000	incongruous	/ɪnˈkɑːŋɡruəs/\tnot in harmony with the surroundings\t어울리지 않는, 부조화의
+00528	1970-01-01 00:00:00	0000	0000	incontrovertible	/ˌɪnkɑːntrəˈvɜːrtəbl/\timpossible to dispute or deny\t반박할 수 없는
+00529	1970-01-01 00:00:00	0000	0000	incredulous	/ɪnˈkredʒələs/\tunwilling or unable to believe something\t믿지 못하는, 의심하는
+00530	1970-01-01 00:00:00	0000	0000	indict	/ɪnˈdaɪt/\tto formally charge someone with a crime\t기소하다
+00531	1970-01-01 00:00:00	0000	0000	indigent	/ˈɪndɪdʒənt/\tpoor and needy\t궁핍한
+00532	1970-01-01 00:00:00	0000	0000	indignant	/ɪnˈdɪɡnənt/\tangry about unfair treatment\t분개한
+00533	1970-01-01 00:00:00	0000	0000	indolent	/ˈɪndələnt/\tlazy and avoiding effort\t게으른, 나태한
+00534	1970-01-01 00:00:00	0000	0000	indomitable	/ɪnˈdɑːmɪtəbl/\timpossible to defeat or discourage\t불굴의
+00535	1970-01-01 00:00:00	0000	0000	indulgent	/ɪnˈdʌldʒənt/\toverly generous or lenient\t관대한, 응석을 받아주는
+00536	1970-01-01 00:00:00	0000	0000	inept	/ɪˈnept/\tlacking skill or competence\t서투른, 무능한
+00537	1970-01-01 00:00:00	0000	0000	inert	/ɪˈnɜːrt/\tinactive or lacking power to move\t비활성의, 움직이지 않는
+00538	1970-01-01 00:00:00	0000	0000	inexorable	/ɪnˈeksərəbl/\timpossible to stop or prevent\t막을 수 없는, 냉혹한
+00539	1970-01-01 00:00:00	0000	0000	infallible	/ɪnˈfæləbl/\tincapable of making mistakes\t틀림없는
+00540	1970-01-01 00:00:00	0000	0000	infamous	/ˈɪnfəməs/\twell known for a bad quality or act\t악명 높은
+00541	1970-01-01 00:00:00	0000	0000	ingenuous	/ɪnˈdʒenjuəs/\tinnocent, sincere, and unsuspecting\t순진한, 솔직한
+00542	1970-01-01 00:00:00	0000	0000	insidious	/ɪnˈsɪdiəs/\tgradually harmful in a subtle way\t서서히 해를 끼치는, 음흉한
+00543	1970-01-01 00:00:00	0000	0000	insinuate	/ɪnˈsɪnjueɪt/\tto indirectly suggest something unpleasant\t넌지시 암시하다
+00544	1970-01-01 00:00:00	0000	0000	insipid	/ɪnˈsɪpɪd/\tlacking flavor or interest\t맛없는, 재미없는
+00545	1970-01-01 00:00:00	0000	0000	insolent	/ˈɪnsələnt/\trude and disrespectful\t무례한, 건방진
+00546	1970-01-01 00:00:00	0000	0000	instigate	/ˈɪnstɪɡeɪt/\tto initiate or provoke an action\t부추기다, 선동하다
+00547	1970-01-01 00:00:00	0000	0000	insular	/ˈɪnsələr/\tnarrow-minded and uninterested in outside ideas\t배타적인, 편협한
+00548	1970-01-01 00:00:00	0000	0000	insuperable	/ɪnˈsuːpərəbl/\timpossible to overcome\t극복할 수 없는
+00549	1970-01-01 00:00:00	0000	0000	insurgent	/ɪnˈsɜːrdʒənt/\ta person or group rebelling against authority\t반란자, 반란을 일으키는
+00550	1970-01-01 00:00:00	0000	0000	intractable	/ɪnˈtræktəbl/\tdifficult to control or solve\t다루기 힘든, 난치의
+00551	1970-01-01 00:00:00	0000	0000	intrepid	/ɪnˈtrepɪd/\tfearless and adventurous\t용맹한, 대담한
+00552	1970-01-01 00:00:00	0000	0000	inundate	/ˈɪnʌndeɪt/\tto flood or overwhelm with a large amount\t침수시키다, 쇄도하게 하다
+00553	1970-01-01 00:00:00	0000	0000	inveterate	/ɪnˈvetərət/\thaving a long-established habit\t상습적인, 뿌리 깊은
+00554	1970-01-01 00:00:00	0000	0000	invulnerable	/ɪnˈvʌlnərəbl/\timpossible to harm or damage\t해칠 수 없는
+00555	1970-01-01 00:00:00	0000	0000	irascible	/ɪˈræsəbl/\teasily angered\t화를 잘 내는
+00556	1970-01-01 00:00:00	0000	0000	irksome	/ˈɜːrksəm/\tannoying or tiresome\t짜증나는, 귀찮은
+00557	1970-01-01 00:00:00	0000	0000	ironic	/aɪˈrɑːnɪk/\tcontrary to what is expected\t반어적인, 역설적인
+00558	1970-01-01 00:00:00	0000	0000	irrefutable	/ˌɪrɪˈfjuːtəbl/\timpossible to disprove\t반박할 수 없는
+00559	1970-01-01 00:00:00	0000	0000	irresolute	/ɪˈrezəluːt/\tuncertain and unable to decide\t우유부단한
+00560	1970-01-01 00:00:00	0000	0000	irreverent	/ɪˈrevərənt/\tshowing insufficient respect\t불손한, 불경스러운
+00561	1970-01-01 00:00:00	0000	0000	itinerant	/aɪˈtɪnərənt/\ttraveling from place to place\t떠돌아다니는, 순회하는
+00562	1970-01-01 00:00:00	0000	0000	jaded	/ˈdʒeɪdɪd/\ttired or bored from too much of something\t지친, 싫증 난
+00563	1970-01-01 00:00:00	0000	0000	jocular	/ˈdʒɑːkjələr/\tfond of joking; humorous\t익살스러운
+00564	1970-01-01 00:00:00	0000	0000	juxtapose	/ˌdʒʌkstəˈpoʊz/\tto place things together for comparison\t병치하다
+00565	1970-01-01 00:00:00	0000	0000	kindle	/ˈkɪndl/\tto ignite a fire or arouse a feeling\t불을 붙이다, 감정을 불러일으키다
+00566	1970-01-01 00:00:00	0000	0000	knotty	/ˈnɑːti/\tvery complicated and difficult\t복잡한, 난해한
+00567	1970-01-01 00:00:00	0000	0000	laconic	/ləˈkɑːnɪk/\tusing very few words\t과묵한, 간결한
+00568	1970-01-01 00:00:00	0000	0000	lampoon	/læmˈpuːn/\tto publicly ridicule through satire\t풍자하다, 조롱하다
+00569	1970-01-01 00:00:00	0000	0000	languid	/ˈlæŋɡwɪd/\tlacking energy and moving slowly\t나른한, 활기 없는
+00570	1970-01-01 00:00:00	0000	0000	languish	/ˈlæŋɡwɪʃ/\tto lose vitality or remain in an unpleasant state\t쇠약해지다, 시달리다
+00571	1970-01-01 00:00:00	0000	0000	laud	/lɔːd/\tto praise highly\t칭찬하다, 찬양하다
+00572	1970-01-01 00:00:00	0000	0000	lax	/læks/\tnot strict or careful enough\t느슨한, 해이한
+00573	1970-01-01 00:00:00	0000	0000	leery	/ˈlɪri/\tcautious because of suspicion\t의심하며 경계하는
+00574	1970-01-01 00:00:00	0000	0000	lethargic	/ləˈθɑːrdʒɪk/\tsluggish and lacking energy\t무기력한
+00575	1970-01-01 00:00:00	0000	0000	levity	/ˈlevəti/\tinappropriate humor or lack of seriousness\t경솔함, 경박함
+00576	1970-01-01 00:00:00	0000	0000	limpid	/ˈlɪmpɪd/\tcompletely clear and transparent\t맑은, 투명한
+00577	1970-01-01 00:00:00	0000	0000	lithe	/laɪð/\tthin, flexible, and graceful\t유연한, 나긋나긋한
+00578	1970-01-01 00:00:00	0000	0000	loquacious	/loʊˈkweɪʃəs/\ttalking a great deal\t수다스러운
+00579	1970-01-01 00:00:00	0000	0000	magnanimous	/mæɡˈnænɪməs/\tgenerous and forgiving toward a rival\t도량이 넓은, 관대한
+00580	1970-01-01 00:00:00	0000	0000	magnate	/ˈmæɡneɪt/\ta wealthy and influential businessperson\t재계의 거물
+00581	1970-01-01 00:00:00	0000	0000	maladroit	/ˌmæləˈdrɔɪt/\tclumsy or ineffective\t서투른, 솜씨 없는
+00582	1970-01-01 00:00:00	0000	0000	malaise	/məˈleɪz/\ta general feeling of discomfort or unease\t불쾌감, 불안감
+00583	1970-01-01 00:00:00	0000	0000	malicious	/məˈlɪʃəs/\tintending to cause harm\t악의적인
+00584	1970-01-01 00:00:00	0000	0000	malign	/məˈlaɪn/\tto speak harmfully about someone; evil in nature\t비방하다, 악의적인
+00585	1970-01-01 00:00:00	0000	0000	malleable	/ˈmæliəbl/\teasily shaped or influenced\t가공하기 쉬운, 영향을 받기 쉬운
+00586	1970-01-01 00:00:00	0000	0000	maverick	/ˈmævərɪk/\tan independent and unconventional person\t독립적인 이단아
+00587	1970-01-01 00:00:00	0000	0000	meander	/miˈændər/\tto follow a winding course or wander\t구불구불 흐르다, 배회하다
+00588	1970-01-01 00:00:00	0000	0000	mellifluous	/məˈlɪfluəs/\tpleasantly smooth and musical to hear\t감미로운
+00589	1970-01-01 00:00:00	0000	0000	mendacious	/menˈdeɪʃəs/\tdishonest and untruthful\t거짓말하는, 허위의
+00590	1970-01-01 00:00:00	0000	0000	mercenary	/ˈmɜːrsəneri/\tmotivated mainly by money\t돈만을 목적으로 하는
+00591	1970-01-01 00:00:00	0000	0000	mercurial	/mərˈkjʊriəl/\tsubject to sudden changes of mood\t변덕스러운
+00592	1970-01-01 00:00:00	0000	0000	mollify	/ˈmɑːlɪfaɪ/\tto calm someone's anger or anxiety\t달래다, 진정시키다
+00593	1970-01-01 00:00:00	0000	0000	morose	/məˈroʊs/\tsullen and bad-tempered\t시무룩한, 침울한
+00594	1970-01-01 00:00:00	0000	0000	myopic	/maɪˈɑːpɪk/\tlacking foresight or having narrow vision\t근시안적인
+00595	1970-01-01 00:00:00	0000	0000	nefarious	/nɪˈferiəs/\twicked or criminal\t사악한, 범죄적인
+00596	1970-01-01 00:00:00	0000	0000	neologism	/niˈɑːlədʒɪzəm/\ta newly created word or expression\t신조어
+00597	1970-01-01 00:00:00	0000	0000	obdurate	/ˈɑːbdərət/\tstubbornly refusing to change\t완고한
+00598	1970-01-01 00:00:00	0000	0000	obfuscate	/ˈɑːbfəskeɪt/\tto make something unclear or confusing\t불명확하게 하다
+00599	1970-01-01 00:00:00	0000	0000	obsequious	/əbˈsiːkwiəs/\texcessively obedient or flattering\t아첨하는, 비굴한
+00600	1970-01-01 00:00:00	0000	0000	obtrusive	/əbˈtruːsɪv/\tnoticeable in an unwanted or intrusive way\t눈에 거슬리는, 끼어드는
+00601	1970-01-01 00:00:00	0000	0000	obtuse	/əbˈtuːs/\tslow to understand or insensitive\t둔한, 둔감한
+00602	1970-01-01 00:00:00	0000	0000	obviate	/ˈɑːbvieɪt/\tto remove a need or prevent a difficulty\t필요성을 없애다, 방지하다
+00603	1970-01-01 00:00:00	0000	0000	occlude	/əˈkluːd/\tto block or close a passage\t막다, 차단하다
+00604	1970-01-01 00:00:00	0000	0000	officious	/əˈfɪʃəs/\tannoyingly eager to give unwanted help or orders\t참견하기 좋아하는
+00605	1970-01-01 00:00:00	0000	0000	opulent	/ˈɑːpjələnt/\trich and luxurious\t호화로운, 풍부한
+00606	1970-01-01 00:00:00	0000	0000	ostentatious	/ˌɑːstenˈteɪʃəs/\tdesigned to attract attention through display\t과시하는, 허세 부리는
+00607	1970-01-01 00:00:00	0000	0000	palliative	/ˈpæliətɪv/\trelieving symptoms without curing the cause\t증상을 완화하는, 임시방편의
+00608	1970-01-01 00:00:00	0000	0000	parsimonious	/ˌpɑːrsɪˈmoʊniəs/\tunwilling to spend money or resources\t인색한
+00609	1970-01-01 00:00:00	0000	0000	paucity	/ˈpɔːsəti/\tan insufficient quantity\t부족, 소량
+00610	1970-01-01 00:00:00	0000	0000	pedantic	/pəˈdæntɪk/\toverly concerned with minor rules or details\t현학적인, 지나치게 세세한
+00611	1970-01-01 00:00:00	0000	0000	pedestrian	/pəˈdestriən/\tordinary and lacking imagination\t평범한, 지루한
+00612	1970-01-01 00:00:00	0000	0000	pejorative	/pɪˈdʒɔːrətɪv/\texpressing contempt or disapproval\t비하적인
+00613	1970-01-01 00:00:00	0000	0000	penchant	/ˈpentʃənt/\ta strong habitual liking\t강한 취향, 애호
+00614	1970-01-01 00:00:00	0000	0000	perfidious	/pərˈfɪdiəs/\tdeceitful and untrustworthy\t배신하는, 신의 없는
+00615	1970-01-01 00:00:00	0000	0000	perfunctory	/pərˈfʌŋktəri/\tdone with minimal effort or interest\t형식적인, 건성으로 하는
+00616	1970-01-01 00:00:00	0000	0000	pernicious	/pərˈnɪʃəs/\thaving a gradually harmful effect\t유해한, 치명적인
+00617	1970-01-01 00:00:00	0000	0000	petulant	/ˈpetʃələnt/\tchildishly bad-tempered\t심술궂은, 토라진
+00618	1970-01-01 00:00:00	0000	0000	phlegmatic	/fleɡˈmætɪk/\tcalm and unemotional\t침착한, 냉정한
+00619	1970-01-01 00:00:00	0000	0000	piety	/ˈpaɪəti/\treligious devotion or reverence\t경건함, 독실함
+00620	1970-01-01 00:00:00	0000	0000	placate	/ˈpleɪkeɪt/\tto make someone less angry or hostile\t달래다, 회유하다
+00621	1970-01-01 00:00:00	0000	0000	platitude	/ˈplætɪtuːd/\tan overused and unoriginal remark\t상투적인 말
+00622	1970-01-01 00:00:00	0000	0000	plethora	/ˈpleθərə/\tan excessive amount of something\t과다, 과잉
+00623	1970-01-01 00:00:00	0000	0000	pliant	/ˈplaɪənt/\teasily bent or influenced\t유연한, 순종적인
+00624	1970-01-01 00:00:00	0000	0000	poignant	/ˈpɔɪnjənt/\tevoking a strong feeling of sadness\t가슴 아픈, 절절한
+00625	1970-01-01 00:00:00	0000	0000	polemic	/pəˈlemɪk/\ta forceful verbal or written attack\t격렬한 논쟁, 비판
+00626	1970-01-01 00:00:00	0000	0000	precipitate	/prɪˈsɪpɪteɪt/\tto cause something to happen suddenly\t촉발하다, 재촉하다
+00627	1970-01-01 00:00:00	0000	0000	precocious	/prɪˈkoʊʃəs/\tdeveloping abilities unusually early\t조숙한
+00628	1970-01-01 00:00:00	0000	0000	predilection	/ˌpredlˈekʃn/\ta special preference for something\t선호, 편애
+00629	1970-01-01 00:00:00	0000	0000	presumptuous	/prɪˈzʌmptʃuəs/\texceeding what is appropriate or permitted\t주제넘은, 건방진
+00630	1970-01-01 00:00:00	0000	0000	pretentious	/prɪˈtenʃəs/\ttrying to appear more important than one is\t허세 부리는
+00631	1970-01-01 00:00:00	0000	0000	prevaricate	/prɪˈværɪkeɪt/\tto speak evasively to avoid the truth\t얼버무리다
+00632	1970-01-01 00:00:00	0000	0000	probity	/ˈproʊbəti/\tstrong moral principles and honesty\t정직, 청렴
+00633	1970-01-01 00:00:00	0000	0000	prodigal	/ˈprɑːdɪɡl/\twastefully extravagant\t낭비하는, 방탕한
+00634	1970-01-01 00:00:00	0000	0000	profligate	/ˈprɑːflɪɡət/\trecklessly wasteful\t낭비하는, 방탕한
+00635	1970-01-01 00:00:00	0000	0000	profuse	/prəˈfjuːs/\tabundant or given in large amounts\t풍부한, 아낌없는
+00636	1970-01-01 00:00:00	0000	0000	promulgate	/ˈprɑːməlɡeɪt/\tto officially announce or widely promote\t공포하다, 널리 알리다
+00637	1970-01-01 00:00:00	0000	0000	propensity	/prəˈpensəti/\ta natural tendency to behave in a certain way\t경향, 성향
+00638	1970-01-01 00:00:00	0000	0000	prosaic	/prəˈzeɪɪk/\tordinary and lacking imagination\t평범한, 따분한
+00639	1970-01-01 00:00:00	0000	0000	proscribe	/proʊˈskraɪb/\tto officially forbid something\t금지하다
+00640	1970-01-01 00:00:00	0000	0000	provincial	/prəˈvɪnʃl/\tnarrow-minded or relating to a province\t편협한, 지방의
+00641	1970-01-01 00:00:00	0000	0000	puerile	/ˈpjʊrəl/\tchildishly silly or immature\t유치한
+00642	1970-01-01 00:00:00	0000	0000	pugnacious	/pʌɡˈneɪʃəs/\teager to argue or fight\t호전적인
+00643	1970-01-01 00:00:00	0000	0000	pungent	/ˈpʌndʒənt/\thaving a sharply strong taste, smell, or effect\t톡 쏘는, 신랄한
+00644	1970-01-01 00:00:00	0000	0000	quiescent	/kwiˈesnt/\tinactive or dormant\t정지한, 휴면 상태의
+00645	1970-01-01 00:00:00	0000	0000	rancor	/ˈræŋkər/\tlong-lasting bitterness or resentment\t원한, 악의
+00646	1970-01-01 00:00:00	0000	0000	rapacious	/rəˈpeɪʃəs/\taggressively greedy\t탐욕스러운
+00647	1970-01-01 00:00:00	0000	0000	recalcitrant	/rɪˈkælsɪtrənt/\tstubbornly resisting authority\t반항적인, 다루기 힘든
+00648	1970-01-01 00:00:00	0000	0000	recant	/rɪˈkænt/\tto withdraw a previously stated belief\t철회하다
+00649	1970-01-01 00:00:00	0000	0000	refractory	/rɪˈfræktəri/\tstubborn, unmanageable, or resistant to treatment\t다루기 힘든, 치료에 반응하지 않는
+00650	1970-01-01 00:00:00	0000	0000	relegate	/ˈrelɪɡeɪt/\tto assign to a lower position\t강등시키다, 격하하다
+00651	1970-01-01 00:00:00	0000	0000	reprehensible	/ˌreprɪˈhensəbl/\tdeserving strong criticism\t비난받아 마땅한
+00652	1970-01-01 00:00:00	0000	0000	repress	/rɪˈpres/\tto restrain or suppress by force\t억압하다, 억누르다
+00653	1970-01-01 00:00:00	0000	0000	reproach	/rɪˈproʊtʃ/\tto express disapproval or disappointment\t책망하다, 비난하다
+00654	1970-01-01 00:00:00	0000	0000	reprove	/rɪˈpruːv/\tto reprimand someone\t꾸짖다
+00655	1970-01-01 00:00:00	0000	0000	repudiate	/rɪˈpjuːdieɪt/\tto reject or deny the validity of something\t거부하다, 부인하다
+00656	1970-01-01 00:00:00	0000	0000	rescind	/rɪˈsɪnd/\tto officially cancel a law or agreement\t철회하다, 무효로 하다
+00657	1970-01-01 00:00:00	0000	0000	reserve	/rɪˈzɜːrv/\tself-restraint in expressing feelings\t자제, 과묵함
+00658	1970-01-01 00:00:00	0000	0000	reticent	/ˈretɪsnt/\tnot readily revealing one's thoughts\t말을 아끼는, 과묵한
+00659	1970-01-01 00:00:00	0000	0000	revere	/rɪˈvɪr/\tto deeply respect or admire\t존경하다, 숭배하다
+00660	1970-01-01 00:00:00	0000	0000	reverent	/ˈrevərənt/\tshowing deep respect\t경건한, 공경하는
+00661	1970-01-01 00:00:00	0000	0000	sacrosanct	/ˈsækroʊsæŋkt/\ttoo important or sacred to be interfered with\t신성불가침의
+00662	1970-01-01 00:00:00	0000	0000	sagacious	/səˈɡeɪʃəs/\tshowing wisdom and sound judgment\t현명한, 통찰력 있는
+00663	1970-01-01 00:00:00	0000	0000	salubrious	/səˈluːbriəs/\thealthy or beneficial\t건강에 좋은, 유익한
+00664	1970-01-01 00:00:00	0000	0000	salutary	/ˈsæljəteri/\tproducing a beneficial effect\t유익한, 건전한
+00665	1970-01-01 00:00:00	0000	0000	satiate	/ˈseɪʃieɪt/\tto fully satisfy an appetite or desire\t충족시키다, 물리게 하다
+00666	1970-01-01 00:00:00	0000	0000	scrupulous	/ˈskruːpjələs/\tvery careful, thorough, and ethical\t양심적인, 세심한
+00667	1970-01-01 00:00:00	0000	0000	servile	/ˈsɜːrvl/\texcessively willing to serve or obey\t비굴한, 굽신거리는
+00668	1970-01-01 00:00:00	0000	0000	somnolent	/ˈsɑːmnələnt/\tsleepy or inducing sleep\t졸린, 졸음을 일으키는
+00669	1970-01-01 00:00:00	0000	0000	specious	/ˈspiːʃəs/\tappearing plausible but actually false\t겉만 그럴듯한
+00670	1970-01-01 00:00:00	0000	0000	spurious	/ˈspjʊriəs/\tfalse or not genuine\t가짜의, 허위의
+00671	1970-01-01 00:00:00	0000	0000	staid	/steɪd/\trespectable, calm, and unadventurous\t차분한, 고루한
+00672	1970-01-01 00:00:00	0000	0000	stolid	/ˈstɑːlɪd/\tshowing little emotion\t무감정한, 둔감한
+00673	1970-01-01 00:00:00	0000	0000	strident	/ˈstraɪdnt/\tloud, harsh, and forceful\t귀에 거슬리는, 강경한
+00674	1970-01-01 00:00:00	0000	0000	stymie	/ˈstaɪmi/\tto prevent or obstruct progress\t방해하다, 좌절시키다
+00675	1970-01-01 00:00:00	0000	0000	subpoena	/səˈpiːnə/\ta legal order requiring someone to appear in court\t법정 소환장
+00676	1970-01-01 00:00:00	0000	0000	subside	/səbˈsaɪd/\tto become less intense or settle down\t가라앉다, 진정되다
+00677	1970-01-01 00:00:00	0000	0000	sublime	/səˈblaɪm/\tof outstanding beauty or excellence\t숭고한, 탁월한
+00678	1970-01-01 00:00:00	0000	0000	submissive	/səbˈmɪsɪv/\twilling to obey or yield to authority\t순종적인, 복종하는
+00679	1970-01-01 00:00:00	0000	0000	substantiate	/səbˈstænʃieɪt/\tto support a claim with evidence\t입증하다
+00680	1970-01-01 00:00:00	0000	0000	subversive	/səbˈvɜːrsɪv/\tseeking to undermine an established system\t체제 전복적인
+00681	1970-01-01 00:00:00	0000	0000	supercilious	/ˌsuːpərˈsɪliəs/\tbehaving as though superior to others\t거만한
+00682	1970-01-01 00:00:00	0000	0000	superfluous	/suːˈpɜːrfluəs/\tmore than necessary\t불필요한, 남아도는
+00683	1970-01-01 00:00:00	0000	0000	supersede	/ˌsuːpərˈsiːd/\tto replace something older or less effective\t대체하다
+00684	1970-01-01 00:00:00	0000	0000	supplant	/səˈplænt/\tto replace and take the position of\t대신하다, 밀어내다
+00685	1970-01-01 00:00:00	0000	0000	surfeit	/ˈsɜːrfɪt/\tan excessive amount of something\t과다, 과식
+00686	1970-01-01 00:00:00	0000	0000	surreptitious	/ˌsɜːrəpˈtɪʃəs/\tkept secret because it would be disapproved of\t은밀한, 비밀의
+00687	1970-01-01 00:00:00	0000	0000	taciturn	/ˈtæsɪtɜːrn/\tsaying very little\t과묵한
+00688	1970-01-01 00:00:00	0000	0000	tangential	/tænˈdʒenʃl/\tonly slightly related to the main subject\t별로 관계없는, 곁가지의
+00689	1970-01-01 00:00:00	0000	0000	tantamount	/ˈtæntəmaʊnt/\tequivalent in effect or seriousness\t~와 마찬가지인
+00690	1970-01-01 00:00:00	0000	0000	tawdry	/ˈtɔːdri/\tshowy but cheap and poor in quality\t번지르르하지만 값싼
+00691	1970-01-01 00:00:00	0000	0000	temperate	/ˈtempərət/\tmoderate and showing self-restraint\t절제하는, 온화한
+00692	1970-01-01 00:00:00	0000	0000	tendentious	/tenˈdenʃəs/\tpromoting a particular viewpoint or cause\t편향적인, 선동적인
+00693	1970-01-01 00:00:00	0000	0000	timorous	/ˈtɪmərəs/\tfearful and lacking confidence\t겁 많은, 소심한
+00694	1970-01-01 00:00:00	0000	0000	tirade	/ˈtaɪreɪd/\ta long angry speech of criticism\t장광설, 신랄한 비난
+00695	1970-01-01 00:00:00	0000	0000	torpid	/ˈtɔːrpɪd/\tmentally or physically inactive\t무기력한, 활기 없는
+00696	1970-01-01 00:00:00	0000	0000	tortuous	/ˈtɔːrtʃuəs/\tfull of twists or excessively complicated\t구불구불한, 복잡한
+00697	1970-01-01 00:00:00	0000	0000	tractable	/ˈtræktəbl/\teasy to control, influence, or solve\t다루기 쉬운
+00698	1970-01-01 00:00:00	0000	0000	transgress	/trænzˈɡres/\tto violate a law or moral principle\t위반하다
+00699	1970-01-01 00:00:00	0000	0000	trepidation	/ˌtrepɪˈdeɪʃn/\tfear or anxiety about something future\t두려움, 불안
+00700	1970-01-01 00:00:00	0000	0000	truculent	/ˈtrʌkjələnt/\teager to argue or fight\t공격적인, 호전적인
+00701	1970-01-01 00:00:00	0000	0000	turbid	/ˈtɜːrbɪd/\tcloudy, opaque, or confused\t탁한, 혼란스러운
+00702	1970-01-01 00:00:00	0000	0000	turgid	/ˈtɜːrdʒɪd/\tswollen or excessively complicated in style\t부풀어 오른, 장황한
+00703	1970-01-01 00:00:00	0000	0000	umbrage	/ˈʌmbrɪdʒ/\toffense or annoyance\t불쾌감
+00704	1970-01-01 00:00:00	0000	0000	unfeigned	/ʌnˈfeɪnd/\tgenuine and sincere\t진실한, 꾸밈없는
+00705	1970-01-01 00:00:00	0000	0000	unscrupulous	/ʌnˈskruːpjələs/\thaving no moral principles\t비양심적인
+00706	1970-01-01 00:00:00	0000	0000	upbraid	/ʌpˈbreɪd/\tto scold or criticize severely\t질책하다
+00707	1970-01-01 00:00:00	0000	0000	urbane	/ɜːrˈbeɪn/\tcourteous, refined, and sophisticated\t세련된, 점잖은
+00708	1970-01-01 00:00:00	0000	0000	usurp	/juːˈsɜːrp/\tto seize power or a position illegally\t권력을 찬탈하다
+00709	1970-01-01 00:00:00	0000	0000	vapid	/ˈvæpɪd/\tlacking interest, stimulation, or flavor\t흥미 없는, 지루한
+00710	1970-01-01 00:00:00	0000	0000	venerate	/ˈvenəreɪt/\tto regard with deep respect\t공경하다, 숭배하다
+00711	1970-01-01 00:00:00	0000	0000	veracity	/vəˈræsəti/\ttruthfulness or accuracy\t진실성, 정확성
+00712	1970-01-01 00:00:00	0000	0000	veritable	/ˈverɪtəbl/\tgenuine or used to emphasize a description\t진정한, 명실상부한
+00713	1970-01-01 00:00:00	0000	0000	vicissitude	/vɪˈsɪsɪtuːd/\tan unwelcome change in circumstances\t변화, 우여곡절
+00714	1970-01-01 00:00:00	0000	0000	vilify	/ˈvɪlɪfaɪ/\tto speak about someone in an abusive way\t비방하다, 매도하다
+00715	1970-01-01 00:00:00	0000	0000	vitiate	/ˈvɪʃieɪt/\tto spoil, weaken, or invalidate something\t손상시키다, 무효로 하다
+00716	1970-01-01 00:00:00	0000	0000	vitriolic	/ˌvɪtriˈɑːlɪk/\tfilled with bitter criticism or malice\t신랄한, 증오에 찬
+00717	1970-01-01 00:00:00	0000	0000	vociferous	/voʊˈsɪfərəs/\texpressing opinions loudly and forcefully\t목소리가 큰, 격렬한
+00718	1970-01-01 00:00:00	0000	0000	voluble	/ˈvɑːljəbl/\tspeaking fluently and at length\t말재주가 좋은
+00719	1970-01-01 00:00:00	0000	0000	wanton	/ˈwɑːntən/\tdeliberate and without justification or restraint\t고의적인, 무절제한
+00720	1970-01-01 00:00:00	0000	0000	whet	/wet/\tto sharpen or stimulate an appetite or interest\t갈다, 자극하다
+00721	1970-01-01 00:00:00	0000	0000	wily	/ˈwaɪli/\tclever at gaining advantage through deception\t교활한
+00722	1970-01-01 00:00:00	0000	0000	wizened	/ˈwɪznd/\tshriveled or wrinkled with age\t쭈그러든, 주름진
+00723	1970-01-01 00:00:00	0000	0000	zealot	/ˈzelət/\ta fanatical and uncompromising supporter\t광신자, 열성가

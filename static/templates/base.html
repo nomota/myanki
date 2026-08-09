@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#111827">
+
+    <title>{% block title %}MyAnki Memory{% endblock %}</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+    <script src="{{ url_for('static', filename='js/htmx.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}" defer></script>
+</head>
+<body>
+    <div class="app-shell">
+        {% block header %}
+        <header class="app-header">
+            <a class="app-brand" href="{{ url_for('home') }}" aria-label="Memory home">Memory</a>
+
+            {% if email %}
+            <form action="{{ url_for('logout') }}" method="post">
+                <button class="text-button" type="submit">Logout</button>
+            </form>
+            {% endif %}
+        </header>
+        {% endblock %}
+
+        {% if email %}
+        <nav class="top-nav" aria-label="Main navigation">
+            <a class="top-nav-item" href="{{ url_for('home') }}">
+                <span class="top-nav-icon" aria-hidden="true">⌂</span>
+                <span>Home</span>
+            </a>
+
+            <form class="top-nav-form" action="{{ url_for('start_study') }}" method="post" hx-post="{{ url_for('start_study') }}" hx-target="#app" hx-swap="innerHTML" hx-push-url="false">
+                <button class="top-nav-item" type="submit">
+                    <span class="top-nav-icon" aria-hidden="true">▶</span>
+                    <span>Learn</span>
+                </button>
+            </form>
+
+            <a class="top-nav-item" href="{{ url_for('add_cards_page') }}">
+                <span class="top-nav-icon" aria-hidden="true">＋</span>
+                <span>Add Cards</span>
+            </a>
+
+            <a class="top-nav-item" href="{{ url_for('settings_page') }}">
+                <span class="top-nav-icon" aria-hidden="true">⚙</span>
+                <span>Settings</span>
+            </a>
+        </nav>
+        {% endif %}
+
+        <main id="app" class="app-main" hx-boost="true" hx-target="#app" hx-swap="innerHTML" hx-push-url="true">
+            {% block content %}{% endblock %}
+        </main>
+    </div>
+
+    <div id="toast-container" class="toast-container" aria-live="polite" aria-atomic="true"></div>
+</body>
+</html>

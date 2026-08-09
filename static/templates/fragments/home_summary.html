@@ -1,0 +1,62 @@
+{% if summary %}
+<section class="summary-card">
+    <div class="summary-card-header">
+        <div>
+            <p class="eyebrow">Current deck</p>
+            <h2>{{ summary.name }}</h2>
+        </div>
+
+        <span class="deck-badge">{{ summary.deck_id }}</span>
+    </div>
+
+    <div class="summary-grid">
+        <div class="summary-item">
+            <span class="summary-label">Total cards</span>
+            <strong class="summary-value">{{ summary.card_count }}</strong>
+        </div>
+
+        <div class="summary-item">
+            <span class="summary-label">Review sessions</span>
+            <strong class="summary-value">{{ summary.n_session }}</strong>
+        </div>
+
+        <div class="summary-item">
+            <span class="summary-label">Cards need to review</span>
+            <strong class="summary-value">{{ summary.due_count }}</strong>
+        </div>
+
+        <div class="summary-item">
+            <span class="summary-label">Progress</span>
+            <strong class="summary-value">{{ summary.progress_percent }}%</strong>
+        </div>
+    </div>
+
+    <div class="progress-block">
+        <div class="progress-label-row">
+            <span>Learn progress</span>
+            <strong>{{ summary.progress_percent }}%</strong>
+        </div>
+
+        <div class="progress-track" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="{{ summary.progress_percent }}">
+            <div class="progress-bar" style="width: {{ summary.progress_percent }}%"></div>
+        </div>
+    </div>
+
+    {% if summary.due_count > 0 %}
+    <form action="{{ url_for('start_study') }}" method="post" hx-post="{{ url_for('start_study') }}" hx-target="#app" hx-swap="innerHTML">
+        <button class="primary-button" type="submit">Start reviewing</button>
+    </form>
+    {% else %}
+    <div class="alert alert-success"
+    >There is no card that needs to be reviewed.</div>
+    {% endif %}
+
+    <a class="secondary-button button-link" href="{{ url_for('add_cards_page') }}">Add Cards</a>
+</section>
+{% else %}
+<section class="empty-state">
+    <h2>No selected deck</h2>
+    <p>Create or select a deck at Settings menu.</p>
+    <a class="primary-button button-link" href="{{ url_for('settings_page') }}">Settings</a>
+</section>
+{% endif %}

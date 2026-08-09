@@ -1,0 +1,37 @@
+{% if ok %}
+<div class="alert alert-success" role="status">{{ message }}</div>
+
+{% if result %}
+<div class="import-summary">
+    <div class="import-summary-item">
+        <span>Added</span>
+        <strong>{{ result.added }}</strong>
+    </div>
+
+    <div class="import-summary-item">
+        <span>Duplicate</span>
+        <strong>{{ result.duplicate }}</strong>
+    </div>
+
+    <div class="import-summary-item">
+        <span>Rejected</span>
+        <strong>{{ result.rejected }}</strong>
+    </div>
+</div>
+
+{% if result.errors %}
+<details class="error-details">
+    <summary>Error details {{ result.errors|length }}</summary>
+
+    <ul class="error-list">
+        {% for error in result.errors %}
+        <li>{{ error }}</li>
+        {% endfor %}
+    </ul>
+</details>
+{% endif %}
+{% endif %}
+
+{% else %}
+<div class="alert alert-error" role="alert">{{ message }}</div>
+{% endif %}

@@ -14,6 +14,7 @@ A simple-minded Anki system, Python Flask version
 ```bash
 git clone https://github.com/nomota/myanki
 cd myanki
+pip install -r requirements.txt
 python myanki.py
 ```
 

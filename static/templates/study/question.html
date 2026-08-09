@@ -1,0 +1,46 @@
+<!-- static/templates/study/question.html -->
+
+<section class="study-page">
+    <div class="study-topbar">
+        <div>
+            <p class="eyebrow">{{ deck.name }}</p>
+            <p class="study-counter">{{ completed_count + 1 }} / {{ target_count }}</p>
+        </div>
+
+        <form action="{{ url_for('stop_study') }}" method="post" hx-post="{{ url_for('stop_study') }}" hx-target="#app" hx-swap="innerHTML">
+            <button class="text-button" type="submit">Stop Session</button>
+        </form>
+    </div>
+
+    <article class="study-card">
+        <div class="study-card-label">Question</div>
+
+        {% if card.n_repetition > 2 and card.n_repetition % 2 == 1 %}
+        <div class="study-card-content">{{ card.value }}</div>
+        {% else %}
+        <div class="study-card-content">{{ card.key }}</div>
+        {% endif %}
+    </article>
+
+    <form class="study-choice-grid" action="{{ url_for('reveal_answer') }}" method="post" hx-post="{{ url_for('reveal_answer') }}" hx-target="#app" hx-swap="innerHTML">
+        <input type="hidden" name="card_id" value="{{ card.card_id }}">
+
+        <button class="study-choice study-choice-again" type="submit" name="recall" value="again" style="display:block">
+            <strong>Again</strong>
+        </button>
+
+        <button class="study-choice study-choice-hard" type="submit" name="recall" value="hard" style="display:block">
+            <strong>Hard</strong>
+        </button>
+
+        <button class="study-choice study-choice-good" type="submit" name="recall" value="good" style="display:block">
+            <strong>Good</strong>
+        </button>
+
+        <button class="study-choice study-choice-easy" type="submit" name="recall" value="easy" style="display:block">
+            <strong>Easy</strong>
+        </button>
+    </form>
+</section>
+
+<!-- eof -->

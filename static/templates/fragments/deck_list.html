@@ -1,0 +1,56 @@
+{% if message %}
+<div class="alert alert-success" role="status">{{ message }}</div>
+{% endif %}
+
+{% if error %}
+<div class="alert alert-error" role="alert">{{ error }}</div>
+{% endif %}
+
+{% if decks %}
+<div class="deck-list">
+    {% for deck in decks %}
+    <article class="deck-list-item {% if deck.deck_id == profile.selected_deck %}is-selected{% endif %}">
+        <div class="deck-list-main">
+            <div class="deck-list-title-row">
+                <h3>{{ deck.name }}</h3>
+
+                {% if deck.deck_id == profile.selected_deck %}
+                <span class="selected-badge">Selected to learn</span>
+                {% endif %}
+            </div>
+
+            <div class="deck-list-meta">
+                <span>Cards {{ deck.card_count }}</span>
+                <span>Needs review {{ deck.due_count }}</span>
+                <span>Progress {{ deck.progress_percent }}%</span>
+            </div>
+        </div>
+
+        <div class="deck-actions">
+            {% if deck.deck_id != profile.selected_deck %}
+            <form hx-post="{{ url_for('select_deck_route', deck_id=deck.deck_id) }}" hx-target="#deck-list" hx-swap="innerHTML">
+                <button class="secondary-button compact-button" type="submit">Select</button>
+            </form>
+            {% endif %}
+
+            <details class="deck-edit-panel">
+                <summary class="secondary-button compact-button">Rename</summary>
+
+                <form class="deck-edit-form" hx-patch="{{ url_for('rename_deck_route', deck_id=deck.deck_id) }}" hx-target="#deck-list" hx-swap="innerHTML">
+                    <label class="sr-only" for="deck-name-{{ deck.deck_id }}">Deck name</label>
+                    <input id="deck-name-{{ deck.deck_id }}" class="form-input" type="text" name="deck_name" value="{{ deck.name }}" maxlength="80" required>
+                    <button class="primary-button compact-button" type="submit">Save</button>
+                </form>
+            </details>
+
+            <button class="danger-button compact-button" type="button" hx-delete="{{ url_for('delete_deck_route', deck_id=deck.deck_id) }}" hx-target="#deck-list" hx-swap="innerHTML" hx-confirm="'{{ deck.name }}' Do you want to delete this deck?">Delete</button>
+        </div>
+    </article>
+    {% endfor %}
+</div>
+{% else %}
+<div class="empty-state compact-empty-state">
+    <h3>There is no deck</h3>
+    <p>Create a deck using the input above.</p>
+</div>
+{% endif %}

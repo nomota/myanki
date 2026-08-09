@@ -1,0 +1,38 @@
+<section class="study-page">
+    <div class="study-topbar">
+        <div>
+            <p class="eyebrow">{{ deck.name }}</p>
+            <p class="study-counter">{{ completed_count + 1 }} / {{ target_count }}</p>
+        </div>
+
+        <form action="{{ url_for('stop_study') }}" method="post" hx-post="{{ url_for('stop_study') }}" hx-target="#app" hx-swap="innerHTML">
+            <button class="text-button" type="submit">Stop Session</button>
+        </form>
+    </div>
+
+    <article class="study-card study-card-answer">
+        <div class="study-card-label">Question</div>
+        <div class="study-card-content study-card-key">{{ card.key }}</div>
+
+        <div class="study-answer-divider"></div>
+
+        <div class="study-card-label">Answer</div>
+        <div class="study-card-content study-card-value">{{ card.value }}</div>
+    </article>
+
+    <div style="display:none" class="recall-result">
+        <span>Memory status</span>
+        <strong>{{ recall_label }}</strong>
+    </div>
+
+    <form class="interval-choice-grid" action="{{ url_for('schedule_card') }}" method="post" hx-post="{{ url_for('schedule_card') }}" hx-target="#app" hx-swap="innerHTML">
+        <input type="hidden" name="card_id" value="{{ card.card_id }}">
+        <input type="hidden" name="recall" value="{{ recall }}">
+
+        {% for choice in choices %}
+        <button class="interval-choice study-choice-{{ choice.title.lower() }}" type="submit" name="interval_index" value="{{ choice.index }}" style="display:block">
+            <strong>{{ choice.title }} <br>{{ choice.label }}</strong>
+        </button>
+        {% endfor %}
+    </form>
+</section>

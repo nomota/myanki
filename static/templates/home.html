@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}Home · Memory{% endblock %}
+
+{% block content %}
+<section class="page-section">
+    <div class="section-heading">
+        <div>
+            <p class="eyebrow">Selected deck</p>
+            <h1>Overview</h1>
+        </div>
+
+        <button class="icon-button" type="button" hx-get="{{ url_for('home_summary') }}" hx-target="#deck-summary" hx-swap="innerHTML" aria-label="Reload">↻</button>
+    </div>
+
+    <div id="deck-summary">
+        {% include "fragments/home_summary.html" %}
+    </div>
+</section>
+{% endblock %}

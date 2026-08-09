@@ -1,0 +1,70 @@
+<section class="study-page">
+    <div class="study-result-card">
+        <div class="study-result-icon" aria-hidden="true">✓</div>
+
+        <p class="eyebrow">Session complete</p>
+        <h1>Review session completed</h1>
+
+        <p class="study-result-message">
+            {% if reason == "target-reached" %}
+            You reviewed all cards for the session.
+            {% elif reason == "no-more-due-cards" %}
+            No more due cards.
+            {% elif reason == "stopped" %}
+            Session stopped.
+            {% else %}
+            Session conpleted.
+            {% endif %}
+        </p>
+
+        <div class="study-result-stats">
+            <div class="study-result-stat">
+                <span>Completed cards</span>
+                <strong>{{ completed_count }}</strong>
+            </div>
+
+            <div class="study-result-stat">
+                <span>Session target</span>
+                <strong>{{ target_count }}</strong>
+            </div>
+        </div>
+
+        {% if summary %}
+        <div class="study-result-summary">
+            <h2>{{ summary.name }}</h2>
+
+            <div class="summary-grid">
+                <div class="summary-item">
+                    <span class="summary-label">Total cards</span>
+                    <strong class="summary-value">{{ summary.card_count }}</strong>
+                </div>
+
+                <div class="summary-item">
+                    <span class="summary-label">Review sessions</span>
+                    <strong class="summary-value">{{ summary.n_session }}</strong>
+                </div>
+
+                <div class="summary-item">
+                    <span class="summary-label">Due cards</span>
+                    <strong class="summary-value">{{ summary.due_count }}</strong>
+                </div>
+
+                <div class="summary-item">
+                    <span class="summary-label">Progress</span>
+                    <strong class="summary-value">{{ summary.progress_percent }}%</strong>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
+        <div class="button-stack">
+            <a class="primary-button button-link" href="{{ url_for('home') }}">Home</a>
+
+            {% if summary and summary.due_count > 0 %}
+            <form action="{{ url_for('start_study') }}" method="post" hx-post="{{ url_for('start_study') }}" hx-target="#app" hx-swap="innerHTML">
+                <button class="secondary-button" type="submit">Start reviewing</button></button>
+            </form>
+            {% endif %}
+        </div>
+    </div>
+</section>

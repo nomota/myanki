@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block title %}Settings · Memory{% endblock %}
+
+{% block content %}
+<section class="page-section">
+    <div class="section-heading">
+        <div>
+            <p class="eyebrow">Settings</p>
+            <h1>Settings</h1>
+        </div>
+    </div>
+
+    <section class="settings-card">
+        <div class="settings-card-header">
+            <div>
+                <h2>Number of cards per review session</h2>
+                <p>The number of cards to review at a time</p>.</p>
+            </div>
+        </div>
+
+        <form class="inline-form" hx-post="{{ url_for('set_cards_per_session') }}" hx-target="#settings-save-result" hx-swap="innerHTML">
+            <label class="sr-only" for="cards-per-session">Number of cards per session</label></label>
+            <input id="cards-per-session" class="form-input number-input" type="number" name="cards_per_session" value="{{ profile.cards_per_session }}" min="1" max="200" inputmode="numeric" required>
+            <button class="primary-button compact-button" type="submit">Save</button>
+        </form>
+
+        <div id="settings-save-result" class="form-result" aria-live="polite"></div>
+    </section>
+
+    <section class="settings-card">
+        <div class="settings-card-header">
+            <div>
+                <h2>Make a new deck</h2>
+                <p>Create a new deck of cards to learn.</p>
+            </div>
+        </div>
+
+        <form class="stack-form" hx-post="{{ url_for('create_deck_route') }}" hx-target="#deck-list" hx-swap="innerHTML">
+            <label class="form-label" for="new-deck-name">Deck Name</label>
+            <input id="new-deck-name" class="form-input" type="text" name="deck_name" placeholder="Ex: English words" maxlength="80" required>
+            <button class="primary-button" type="submit">Create</button>
+        </form>
+    </section>
+
+    <section class="settings-card">
+        <div class="settings-card-header">
+            <div>
+                <h2>Deck Management</h2>
+                <p>You can select a deck to learn or rename a deck.</p>
+            </div>
+        </div>
+
+        <div id="deck-list">
+            {% include "fragments/deck_list.html" %}
+        </div>
+    </section>
+</section>
+{% endblock %}

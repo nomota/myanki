@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}Login · Memory{% endblock %}
+
+{% block header %}{% endblock %}
+
+{% block content %}
+<section class="login-page">
+    <div class="login-card">
+        <div class="login-brand">
+            <div class="login-logo" aria-hidden="true">M</div>
+            <h1>Memory</h1>
+            <p>Learn things in flash cards.</p>
+        </div>
+
+        {% if error %}
+        <div class="alert alert-error" role="alert">{{ error }}</div>
+        {% endif %}
+
+        <form class="stack-form" action="{{ url_for('login') }}" method="post">
+            <label class="form-label" for="email">email</label>
+            <input id="email" class="form-input" type="email" name="email" value="{{ email_value|default('') }}" placeholder="name@example.com" autocomplete="email" inputmode="email" maxlength="254" required autofocus>
+
+            <button class="primary-button" type="submit">Login</button>
+        </form>
+
+        <p class="login-help">You can login by email only.</p>
+    </div>
+</section>
+{% endblock %}

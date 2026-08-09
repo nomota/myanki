@@ -1,0 +1,14 @@
+<section class="study-page">
+    <div class="empty-state study-empty-state">
+        <div class="study-result-icon" aria-hidden="true">✓</div>
+
+        <p class="eyebrow">Study</p>
+        <h1>No due cards</h1>
+        <p>{{ message }}</p>
+
+        <div class="button-stack">
+            <a class="primary-button button-link" href="{{ url_for('home') }}">Home</a>
+            <a class="secondary-button button-link" href="{{ url_for('add_cards_page') }}">Add Cards</a>
+        </div>
+    </div>
+</section>
